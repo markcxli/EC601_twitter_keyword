@@ -31,3 +31,13 @@ I can
 1. acquire the real feedback from my consumers and 
 
 2. quickly increase/decrease my inventory of some particular pair of shoes
+
+
+
+
+![Architecture](arch.png)
+
+
+
+
+

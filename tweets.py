@@ -10,10 +10,10 @@ from google.cloud.language import enums
 from google.cloud.language import types
 
 #Twitter API credentials
-consumer_key = ""
-consumer_secret = ""
-access_key = ""
-access_secret = ""
+consumer_key = "cDQiT2swOorc6vix3iyilxuOA"
+consumer_secret = "5xNfHUZfvKu8mZ9Xl9XUKDB0iRL0gDhrQ7lauyTy2xUbQr2GAW"
+access_key = "1556542249-u5a8d6jVfhNC0S2QgFEWsbmTqh7hOibY5Br7qRd"
+access_secret = "ra0TXYvo2xn53tiJHvve8q4tPy2pPzP8YhTQmYd5uCqHz"
 
 
 def get_all_tweets(screen_name):
