@@ -1,41 +1,41 @@
 {
     "contributors": null, 
     "coordinates": null, 
-    "created_at": "Sat Sep 14 19:55:15 +0000 2019", 
+    "created_at": "Mon Sep 23 05:45:37 +0000 2019", 
     "entities": {
         "hashtags": [], 
         "symbols": [], 
         "urls": [], 
         "user_mentions": [
             {
-                "id": 64121730, 
-                "id_str": "64121730", 
+                "id": 985686123123949568, 
+                "id_str": "985686123123949568", 
                 "indices": [
                     0, 
-                    12
+                    14
                 ], 
-                "name": "Gary the Bot \ud83e\udd16", 
-                "screen_name": "GaryTheBot_"
+                "name": "K10\u2728", 
+                "screen_name": "Kristennetten"
             }
         ]
     }, 
-    "favorite_count": 466, 
+    "favorite_count": 765, 
     "favorited": false, 
     "geo": null, 
-    "id": 1172962029365125120, 
-    "id_str": "1172962029365125120", 
-    "in_reply_to_screen_name": "GaryTheBot_", 
-    "in_reply_to_status_id": 1172961892983365633, 
-    "in_reply_to_status_id_str": "1172961892983365633", 
-    "in_reply_to_user_id": 64121730, 
-    "in_reply_to_user_id_str": "64121730", 
+    "id": 1176009705099071488, 
+    "id_str": "1176009705099071488", 
+    "in_reply_to_screen_name": "Kristennetten", 
+    "in_reply_to_status_id": 1176009085537251329, 
+    "in_reply_to_status_id_str": "1176009085537251329", 
+    "in_reply_to_user_id": 985686123123949568, 
+    "in_reply_to_user_id_str": "985686123123949568", 
     "is_quote_status": false, 
     "lang": "en", 
     "place": null, 
-    "retweet_count": 20, 
+    "retweet_count": 54, 
     "retweeted": false, 
     "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", 
-    "text": "@GaryTheBot_ Wise words from Gary the Bot", 
+    "text": "@Kristennetten SpaceX Foundry is used exclusively for advanced alloys/shapes for Raptor, incl our superalloy, SX500", 
     "truncated": false, 
     "user": {
         "contributors_enabled": false, 
@@ -48,11 +48,11 @@
                 "urls": []
             }
         }, 
-        "favourites_count": 3817, 
+        "favourites_count": 3884, 
         "follow_request_sent": false, 
-        "followers_count": 28228984, 
+        "followers_count": 28338038, 
         "following": false, 
-        "friends_count": 83, 
+        "friends_count": 82, 
         "geo_enabled": false, 
         "has_extended_profile": true, 
         "id": 44196397, 
@@ -60,7 +60,7 @@
         "is_translation_enabled": false, 
         "is_translator": false, 
         "lang": null, 
-        "listed_count": 51348, 
+        "listed_count": 51459, 
         "location": "", 
         "name": "Elon Musk", 
         "notifications": false, 
@@ -78,7 +78,7 @@
         "profile_use_background_image": true, 
         "protected": false, 
         "screen_name": "elonmusk", 
-        "statuses_count": 8748, 
+        "statuses_count": 8840, 
         "time_zone": null, 
         "translator_type": "none", 
         "url": null, 
@@ -88,40 +88,41 @@
 }{
     "contributors": null, 
     "coordinates": null, 
-    "created_at": "Sat Sep 14 19:54:31 +0000 2019", 
+    "created_at": "Mon Sep 23 05:43:00 +0000 2019", 
     "entities": {
         "hashtags": [], 
         "symbols": [], 
         "urls": [
             {
                 "display_url": "twitter.com/i/web/status/1\u2026", 
-                "expanded_url": "https://twitter.com/i/web/status/1172961847596576768", 
+                "expanded_url": "https://twitter.com/i/web/status/1176009047729954818", 
                 "indices": [
                     121, 
                     144
                 ], 
-                "url": "https://t.co/R42s0ae99o"
+                "url": "https://t.co/WpiP4qDYab"
             }
         ], 
         "user_mentions": []
     }, 
-    "favorite_count": 7534, 
+    "favorite_count": 9928, 
     "favorited": false, 
     "geo": null, 
-    "id": 1172961847596576768, 
-    "id_str": "1172961847596576768", 
+    "id": 1176009047729954818, 
+    "id_str": "1176009047729954818", 
     "in_reply_to_screen_name": "elonmusk", 
-    "in_reply_to_status_id": 1172960999856410625, 
-    "in_reply_to_status_id_str": "1172960999856410625", 
+    "in_reply_to_status_id": 1176007759751499776, 
+    "in_reply_to_status_id_str": "1176007759751499776", 
     "in_reply_to_user_id": 44196397, 
     "in_reply_to_user_id_str": "44196397", 
     "is_quote_status": false, 
     "lang": "en", 
     "place": null, 
-    "retweet_count": 351, 
+    "possibly_sensitive": false, 
+    "retweet_count": 885, 
     "retweeted": false, 
     "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", 
-    "text": "However, we won\u2019t customize the contract or engage in negotiations. That just causes the Tesla &amp; customer legal bil\u2026 https://t.co/R42s0ae99o", 
+    "text": "Bottom half of Starship at night. Top half with forward fins &amp; header tanks probably stacks on Wednesday. Three Rap\u2026 https://t.co/WpiP4qDYab", 
     "truncated": true, 
     "user": {
         "contributors_enabled": false, 
@@ -134,11 +135,11 @@
                 "urls": []
             }
         }, 
-        "favourites_count": 3817, 
+        "favourites_count": 3884, 
         "follow_request_sent": false, 
-        "followers_count": 28228984, 
+        "followers_count": 28338038, 
         "following": false, 
-        "friends_count": 83, 
+        "friends_count": 82, 
         "geo_enabled": false, 
         "has_extended_profile": true, 
         "id": 44196397, 
@@ -146,7 +147,7 @@
         "is_translation_enabled": false, 
         "is_translator": false, 
         "lang": null, 
-        "listed_count": 51348, 
+        "listed_count": 51459, 
         "location": "", 
         "name": "Elon Musk", 
         "notifications": false, 
@@ -164,7 +165,7 @@
         "profile_use_background_image": true, 
         "protected": false, 
         "screen_name": "elonmusk", 
-        "statuses_count": 8748, 
+        "statuses_count": 8840, 
         "time_zone": null, 
         "translator_type": "none", 
         "url": null, 
@@ -174,37 +175,1634 @@
 }{
     "contributors": null, 
     "coordinates": null, 
-    "created_at": "Sat Sep 14 19:51:09 +0000 2019", 
+    "created_at": "Mon Sep 23 05:40:38 +0000 2019", 
+    "entities": {
+        "hashtags": [], 
+        "symbols": [], 
+        "urls": [], 
+        "user_mentions": []
+    }, 
+    "favorite_count": 9688, 
+    "favorited": false, 
+    "geo": null, 
+    "id": 1176008450733744129, 
+    "id_str": "1176008450733744129", 
+    "in_reply_to_screen_name": "elonmusk", 
+    "in_reply_to_status_id": 1176007759751499776, 
+    "in_reply_to_status_id_str": "1176007759751499776", 
+    "in_reply_to_user_id": 44196397, 
+    "in_reply_to_user_id_str": "44196397", 
+    "is_quote_status": false, 
+    "lang": "en", 
+    "place": null, 
+    "retweet_count": 242, 
+    "retweeted": false, 
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", 
+    "text": "Raceway &amp; flap hinge aero covers", 
+    "truncated": false, 
+    "user": {
+        "contributors_enabled": false, 
+        "created_at": "Tue Jun 02 20:12:29 +0000 2009", 
+        "default_profile": false, 
+        "default_profile_image": false, 
+        "description": "", 
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        }, 
+        "favourites_count": 3884, 
+        "follow_request_sent": false, 
+        "followers_count": 28338038, 
+        "following": false, 
+        "friends_count": 82, 
+        "geo_enabled": false, 
+        "has_extended_profile": true, 
+        "id": 44196397, 
+        "id_str": "44196397", 
+        "is_translation_enabled": false, 
+        "is_translator": false, 
+        "lang": null, 
+        "listed_count": 51459, 
+        "location": "", 
+        "name": "Elon Musk", 
+        "notifications": false, 
+        "profile_background_color": "C0DEED", 
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+        "profile_background_tile": false, 
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/44196397/1556675519", 
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1170974240796889089/aLuyoQiu_normal.jpg", 
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1170974240796889089/aLuyoQiu_normal.jpg", 
+        "profile_link_color": "0084B4", 
+        "profile_sidebar_border_color": "C0DEED", 
+        "profile_sidebar_fill_color": "DDEEF6", 
+        "profile_text_color": "333333", 
+        "profile_use_background_image": true, 
+        "protected": false, 
+        "screen_name": "elonmusk", 
+        "statuses_count": 8840, 
+        "time_zone": null, 
+        "translator_type": "none", 
+        "url": null, 
+        "utc_offset": null, 
+        "verified": true
+    }
+}{
+    "contributors": null, 
+    "coordinates": null, 
+    "created_at": "Mon Sep 23 05:37:53 +0000 2019", 
+    "entities": {
+        "hashtags": [], 
+        "media": [
+            {
+                "display_url": "pic.twitter.com/Bqt40mSdX4", 
+                "expanded_url": "https://twitter.com/elonmusk/status/1176007759751499776/video/1", 
+                "id": 1176007366929723394, 
+                "id_str": "1176007366929723394", 
+                "indices": [
+                    48, 
+                    71
+                ], 
+                "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1176007366929723394/pu/img/LIq0TPg_MphcWhFh.jpg", 
+                "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1176007366929723394/pu/img/LIq0TPg_MphcWhFh.jpg", 
+                "sizes": {
+                    "large": {
+                        "h": 1280, 
+                        "resize": "fit", 
+                        "w": 720
+                    }, 
+                    "medium": {
+                        "h": 1200, 
+                        "resize": "fit", 
+                        "w": 675
+                    }, 
+                    "small": {
+                        "h": 680, 
+                        "resize": "fit", 
+                        "w": 383
+                    }, 
+                    "thumb": {
+                        "h": 150, 
+                        "resize": "crop", 
+                        "w": 150
+                    }
+                }, 
+                "type": "photo", 
+                "url": "https://t.co/Bqt40mSdX4"
+            }
+        ], 
+        "symbols": [], 
+        "urls": [], 
+        "user_mentions": []
+    }, 
+    "extended_entities": {
+        "media": [
+            {
+                "additional_media_info": {
+                    "monetizable": false
+                }, 
+                "display_url": "pic.twitter.com/Bqt40mSdX4", 
+                "expanded_url": "https://twitter.com/elonmusk/status/1176007759751499776/video/1", 
+                "id": 1176007366929723394, 
+                "id_str": "1176007366929723394", 
+                "indices": [
+                    48, 
+                    71
+                ], 
+                "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1176007366929723394/pu/img/LIq0TPg_MphcWhFh.jpg", 
+                "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1176007366929723394/pu/img/LIq0TPg_MphcWhFh.jpg", 
+                "sizes": {
+                    "large": {
+                        "h": 1280, 
+                        "resize": "fit", 
+                        "w": 720
+                    }, 
+                    "medium": {
+                        "h": 1200, 
+                        "resize": "fit", 
+                        "w": 675
+                    }, 
+                    "small": {
+                        "h": 680, 
+                        "resize": "fit", 
+                        "w": 383
+                    }, 
+                    "thumb": {
+                        "h": 150, 
+                        "resize": "crop", 
+                        "w": 150
+                    }
+                }, 
+                "type": "video", 
+                "url": "https://t.co/Bqt40mSdX4", 
+                "video_info": {
+                    "aspect_ratio": [
+                        9, 
+                        16
+                    ], 
+                    "duration_millis": 13312, 
+                    "variants": [
+                        {
+                            "bitrate": 2176000, 
+                            "content_type": "video/mp4", 
+                            "url": "https://video.twimg.com/ext_tw_video/1176007366929723394/pu/vid/720x1280/FpAJdmAqKI76vlsi.mp4?tag=10"
+                        }, 
+                        {
+                            "bitrate": 632000, 
+                            "content_type": "video/mp4", 
+                            "url": "https://video.twimg.com/ext_tw_video/1176007366929723394/pu/vid/320x568/UYzcCebhXQi9LlR4.mp4?tag=10"
+                        }, 
+                        {
+                            "content_type": "application/x-mpegURL", 
+                            "url": "https://video.twimg.com/ext_tw_video/1176007366929723394/pu/pl/OeiJmazNx6-l0qvB.m3u8?tag=10"
+                        }, 
+                        {
+                            "bitrate": 832000, 
+                            "content_type": "video/mp4", 
+                            "url": "https://video.twimg.com/ext_tw_video/1176007366929723394/pu/vid/360x640/OMx63FTHT_HynSc3.mp4?tag=10"
+                        }
+                    ]
+                }
+            }
+        ]
+    }, 
+    "favorite_count": 53281, 
+    "favorited": false, 
+    "geo": null, 
+    "id": 1176007759751499776, 
+    "id_str": "1176007759751499776", 
+    "in_reply_to_screen_name": null, 
+    "in_reply_to_status_id": null, 
+    "in_reply_to_status_id_str": null, 
+    "in_reply_to_user_id": null, 
+    "in_reply_to_user_id_str": null, 
+    "is_quote_status": false, 
+    "lang": "en", 
+    "place": null, 
+    "possibly_sensitive": false, 
+    "retweet_count": 3419, 
+    "retweeted": false, 
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", 
+    "text": "Just leaving SpaceX Starship build site in Boca https://t.co/Bqt40mSdX4", 
+    "truncated": false, 
+    "user": {
+        "contributors_enabled": false, 
+        "created_at": "Tue Jun 02 20:12:29 +0000 2009", 
+        "default_profile": false, 
+        "default_profile_image": false, 
+        "description": "", 
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        }, 
+        "favourites_count": 3884, 
+        "follow_request_sent": false, 
+        "followers_count": 28338038, 
+        "following": false, 
+        "friends_count": 82, 
+        "geo_enabled": false, 
+        "has_extended_profile": true, 
+        "id": 44196397, 
+        "id_str": "44196397", 
+        "is_translation_enabled": false, 
+        "is_translator": false, 
+        "lang": null, 
+        "listed_count": 51459, 
+        "location": "", 
+        "name": "Elon Musk", 
+        "notifications": false, 
+        "profile_background_color": "C0DEED", 
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+        "profile_background_tile": false, 
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/44196397/1556675519", 
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1170974240796889089/aLuyoQiu_normal.jpg", 
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1170974240796889089/aLuyoQiu_normal.jpg", 
+        "profile_link_color": "0084B4", 
+        "profile_sidebar_border_color": "C0DEED", 
+        "profile_sidebar_fill_color": "DDEEF6", 
+        "profile_text_color": "333333", 
+        "profile_use_background_image": true, 
+        "protected": false, 
+        "screen_name": "elonmusk", 
+        "statuses_count": 8840, 
+        "time_zone": null, 
+        "translator_type": "none", 
+        "url": null, 
+        "utc_offset": null, 
+        "verified": true
+    }
+}{
+    "contributors": null, 
+    "coordinates": null, 
+    "created_at": "Sun Sep 22 22:42:50 +0000 2019", 
     "entities": {
         "hashtags": [], 
         "symbols": [], 
         "urls": [
             {
-                "display_url": "Tesla.com/bigsolar", 
-                "expanded_url": "http://Tesla.com/bigsolar", 
+                "display_url": "twitter.com/i/web/status/1\u2026", 
+                "expanded_url": "https://twitter.com/i/web/status/1175903306268454912", 
                 "indices": [
-                    91, 
-                    114
+                    117, 
+                    140
                 ], 
-                "url": "https://t.co/sCkn87vMa9"
+                "url": "https://t.co/pBP4VIzOX3"
+            }
+        ], 
+        "user_mentions": [
+            {
+                "id": 3167257102, 
+                "id_str": "3167257102", 
+                "indices": [
+                    0, 
+                    15
+                ], 
+                "name": "Everyday Astronaut", 
+                "screen_name": "Erdayastronaut"
             }, 
             {
-                "display_url": "twitter.com/cleantechnica/\u2026", 
-                "expanded_url": "https://twitter.com/cleantechnica/status/1172941000463044609", 
+                "id": 1141784514613645312, 
+                "id_str": "1141784514613645312", 
                 "indices": [
-                    116, 
-                    139
+                    16, 
+                    31
                 ], 
-                "url": "https://t.co/V1rNPM1Hdk"
+                "name": "Captain Crutch", 
+                "screen_name": "CptnCrutch5373"
+            }, 
+            {
+                "id": 2575893481, 
+                "id_str": "2575893481", 
+                "indices": [
+                    32, 
+                    40
+                ], 
+                "name": "Dragon", 
+                "screen_name": "Kalzsom"
+            }
+        ]
+    }, 
+    "favorite_count": 2139, 
+    "favorited": false, 
+    "geo": null, 
+    "id": 1175903306268454912, 
+    "id_str": "1175903306268454912", 
+    "in_reply_to_screen_name": "Erdayastronaut", 
+    "in_reply_to_status_id": 1175825926149595136, 
+    "in_reply_to_status_id_str": "1175825926149595136", 
+    "in_reply_to_user_id": 3167257102, 
+    "in_reply_to_user_id_str": "3167257102", 
+    "is_quote_status": false, 
+    "lang": "en", 
+    "place": null, 
+    "retweet_count": 130, 
+    "retweeted": false, 
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", 
+    "text": "@Erdayastronaut @CptnCrutch5373 @Kalzsom Super Heavy rocket will be much like Falcon 9, but the Ship is a strange c\u2026 https://t.co/pBP4VIzOX3", 
+    "truncated": true, 
+    "user": {
+        "contributors_enabled": false, 
+        "created_at": "Tue Jun 02 20:12:29 +0000 2009", 
+        "default_profile": false, 
+        "default_profile_image": false, 
+        "description": "", 
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        }, 
+        "favourites_count": 3884, 
+        "follow_request_sent": false, 
+        "followers_count": 28338038, 
+        "following": false, 
+        "friends_count": 82, 
+        "geo_enabled": false, 
+        "has_extended_profile": true, 
+        "id": 44196397, 
+        "id_str": "44196397", 
+        "is_translation_enabled": false, 
+        "is_translator": false, 
+        "lang": null, 
+        "listed_count": 51459, 
+        "location": "", 
+        "name": "Elon Musk", 
+        "notifications": false, 
+        "profile_background_color": "C0DEED", 
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+        "profile_background_tile": false, 
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/44196397/1556675519", 
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1170974240796889089/aLuyoQiu_normal.jpg", 
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1170974240796889089/aLuyoQiu_normal.jpg", 
+        "profile_link_color": "0084B4", 
+        "profile_sidebar_border_color": "C0DEED", 
+        "profile_sidebar_fill_color": "DDEEF6", 
+        "profile_text_color": "333333", 
+        "profile_use_background_image": true, 
+        "protected": false, 
+        "screen_name": "elonmusk", 
+        "statuses_count": 8840, 
+        "time_zone": null, 
+        "translator_type": "none", 
+        "url": null, 
+        "utc_offset": null, 
+        "verified": true
+    }
+}{
+    "contributors": null, 
+    "coordinates": null, 
+    "created_at": "Sun Sep 22 17:31:54 +0000 2019", 
+    "entities": {
+        "hashtags": [], 
+        "symbols": [], 
+        "urls": [], 
+        "user_mentions": [
+            {
+                "id": 1083985671650447360, 
+                "id_str": "1083985671650447360", 
+                "indices": [
+                    0, 
+                    16
+                ], 
+                "name": "happychappy", 
+                "screen_name": "happych19952208"
+            }
+        ]
+    }, 
+    "favorite_count": 1276, 
+    "favorited": false, 
+    "geo": null, 
+    "id": 1175825059153362945, 
+    "id_str": "1175825059153362945", 
+    "in_reply_to_screen_name": "happych19952208", 
+    "in_reply_to_status_id": 1175824929058697216, 
+    "in_reply_to_status_id_str": "1175824929058697216", 
+    "in_reply_to_user_id": 1083985671650447360, 
+    "in_reply_to_user_id_str": "1083985671650447360", 
+    "is_quote_status": false, 
+    "lang": "und", 
+    "place": null, 
+    "retweet_count": 42, 
+    "retweeted": false, 
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", 
+    "text": "@happych19952208 \ud83d\ude09", 
+    "truncated": false, 
+    "user": {
+        "contributors_enabled": false, 
+        "created_at": "Tue Jun 02 20:12:29 +0000 2009", 
+        "default_profile": false, 
+        "default_profile_image": false, 
+        "description": "", 
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        }, 
+        "favourites_count": 3884, 
+        "follow_request_sent": false, 
+        "followers_count": 28338038, 
+        "following": false, 
+        "friends_count": 82, 
+        "geo_enabled": false, 
+        "has_extended_profile": true, 
+        "id": 44196397, 
+        "id_str": "44196397", 
+        "is_translation_enabled": false, 
+        "is_translator": false, 
+        "lang": null, 
+        "listed_count": 51459, 
+        "location": "", 
+        "name": "Elon Musk", 
+        "notifications": false, 
+        "profile_background_color": "C0DEED", 
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+        "profile_background_tile": false, 
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/44196397/1556675519", 
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1170974240796889089/aLuyoQiu_normal.jpg", 
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1170974240796889089/aLuyoQiu_normal.jpg", 
+        "profile_link_color": "0084B4", 
+        "profile_sidebar_border_color": "C0DEED", 
+        "profile_sidebar_fill_color": "DDEEF6", 
+        "profile_text_color": "333333", 
+        "profile_use_background_image": true, 
+        "protected": false, 
+        "screen_name": "elonmusk", 
+        "statuses_count": 8840, 
+        "time_zone": null, 
+        "translator_type": "none", 
+        "url": null, 
+        "utc_offset": null, 
+        "verified": true
+    }
+}{
+    "contributors": null, 
+    "coordinates": null, 
+    "created_at": "Sun Sep 22 17:31:12 +0000 2019", 
+    "entities": {
+        "hashtags": [], 
+        "symbols": [], 
+        "urls": [
+            {
+                "display_url": "twitter.com/i/web/status/1\u2026", 
+                "expanded_url": "https://twitter.com/i/web/status/1175824881927278597", 
+                "indices": [
+                    117, 
+                    140
+                ], 
+                "url": "https://t.co/KpPD46mKLH"
+            }
+        ], 
+        "user_mentions": [
+            {
+                "id": 1141784514613645312, 
+                "id_str": "1141784514613645312", 
+                "indices": [
+                    0, 
+                    15
+                ], 
+                "name": "Captain Crutch", 
+                "screen_name": "CptnCrutch5373"
+            }, 
+            {
+                "id": 3167257102, 
+                "id_str": "3167257102", 
+                "indices": [
+                    16, 
+                    31
+                ], 
+                "name": "Everyday Astronaut", 
+                "screen_name": "Erdayastronaut"
+            }, 
+            {
+                "id": 2575893481, 
+                "id_str": "2575893481", 
+                "indices": [
+                    32, 
+                    40
+                ], 
+                "name": "Dragon", 
+                "screen_name": "Kalzsom"
+            }
+        ]
+    }, 
+    "favorite_count": 1331, 
+    "favorited": false, 
+    "geo": null, 
+    "id": 1175824881927278597, 
+    "id_str": "1175824881927278597", 
+    "in_reply_to_screen_name": "CptnCrutch5373", 
+    "in_reply_to_status_id": 1175823295977066497, 
+    "in_reply_to_status_id_str": "1175823295977066497", 
+    "in_reply_to_user_id": 1141784514613645312, 
+    "in_reply_to_user_id_str": "1141784514613645312", 
+    "is_quote_status": false, 
+    "lang": "en", 
+    "place": null, 
+    "retweet_count": 59, 
+    "retweeted": false, 
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", 
+    "text": "@CptnCrutch5373 @Erdayastronaut @Kalzsom Approximately correct. We also fire the ACS thrusters to rotate the vehicl\u2026 https://t.co/KpPD46mKLH", 
+    "truncated": true, 
+    "user": {
+        "contributors_enabled": false, 
+        "created_at": "Tue Jun 02 20:12:29 +0000 2009", 
+        "default_profile": false, 
+        "default_profile_image": false, 
+        "description": "", 
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        }, 
+        "favourites_count": 3884, 
+        "follow_request_sent": false, 
+        "followers_count": 28338038, 
+        "following": false, 
+        "friends_count": 82, 
+        "geo_enabled": false, 
+        "has_extended_profile": true, 
+        "id": 44196397, 
+        "id_str": "44196397", 
+        "is_translation_enabled": false, 
+        "is_translator": false, 
+        "lang": null, 
+        "listed_count": 51459, 
+        "location": "", 
+        "name": "Elon Musk", 
+        "notifications": false, 
+        "profile_background_color": "C0DEED", 
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+        "profile_background_tile": false, 
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/44196397/1556675519", 
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1170974240796889089/aLuyoQiu_normal.jpg", 
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1170974240796889089/aLuyoQiu_normal.jpg", 
+        "profile_link_color": "0084B4", 
+        "profile_sidebar_border_color": "C0DEED", 
+        "profile_sidebar_fill_color": "DDEEF6", 
+        "profile_text_color": "333333", 
+        "profile_use_background_image": true, 
+        "protected": false, 
+        "screen_name": "elonmusk", 
+        "statuses_count": 8840, 
+        "time_zone": null, 
+        "translator_type": "none", 
+        "url": null, 
+        "utc_offset": null, 
+        "verified": true
+    }
+}{
+    "contributors": null, 
+    "coordinates": null, 
+    "created_at": "Sun Sep 22 17:20:27 +0000 2019", 
+    "entities": {
+        "hashtags": [], 
+        "symbols": [], 
+        "urls": [
+            {
+                "display_url": "twitter.com/i/web/status/1\u2026", 
+                "expanded_url": "https://twitter.com/i/web/status/1175822175913283584", 
+                "indices": [
+                    117, 
+                    140
+                ], 
+                "url": "https://t.co/kYVtkl1TcQ"
+            }
+        ], 
+        "user_mentions": [
+            {
+                "id": 2575893481, 
+                "id_str": "2575893481", 
+                "indices": [
+                    0, 
+                    8
+                ], 
+                "name": "Dragon", 
+                "screen_name": "Kalzsom"
+            }, 
+            {
+                "id": 3167257102, 
+                "id_str": "3167257102", 
+                "indices": [
+                    9, 
+                    24
+                ], 
+                "name": "Everyday Astronaut", 
+                "screen_name": "Erdayastronaut"
+            }
+        ]
+    }, 
+    "favorite_count": 1073, 
+    "favorited": false, 
+    "geo": null, 
+    "id": 1175822175913283584, 
+    "id_str": "1175822175913283584", 
+    "in_reply_to_screen_name": "Kalzsom", 
+    "in_reply_to_status_id": 1175821523954937857, 
+    "in_reply_to_status_id_str": "1175821523954937857", 
+    "in_reply_to_user_id": 2575893481, 
+    "in_reply_to_user_id_str": "2575893481", 
+    "is_quote_status": false, 
+    "lang": "en", 
+    "place": null, 
+    "retweet_count": 38, 
+    "retweeted": false, 
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", 
+    "text": "@Kalzsom @Erdayastronaut For aero control, it comes down to % of cross-sectional area moving vs not. Flexible as to\u2026 https://t.co/kYVtkl1TcQ", 
+    "truncated": true, 
+    "user": {
+        "contributors_enabled": false, 
+        "created_at": "Tue Jun 02 20:12:29 +0000 2009", 
+        "default_profile": false, 
+        "default_profile_image": false, 
+        "description": "", 
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        }, 
+        "favourites_count": 3884, 
+        "follow_request_sent": false, 
+        "followers_count": 28338038, 
+        "following": false, 
+        "friends_count": 82, 
+        "geo_enabled": false, 
+        "has_extended_profile": true, 
+        "id": 44196397, 
+        "id_str": "44196397", 
+        "is_translation_enabled": false, 
+        "is_translator": false, 
+        "lang": null, 
+        "listed_count": 51459, 
+        "location": "", 
+        "name": "Elon Musk", 
+        "notifications": false, 
+        "profile_background_color": "C0DEED", 
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+        "profile_background_tile": false, 
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/44196397/1556675519", 
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1170974240796889089/aLuyoQiu_normal.jpg", 
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1170974240796889089/aLuyoQiu_normal.jpg", 
+        "profile_link_color": "0084B4", 
+        "profile_sidebar_border_color": "C0DEED", 
+        "profile_sidebar_fill_color": "DDEEF6", 
+        "profile_text_color": "333333", 
+        "profile_use_background_image": true, 
+        "protected": false, 
+        "screen_name": "elonmusk", 
+        "statuses_count": 8840, 
+        "time_zone": null, 
+        "translator_type": "none", 
+        "url": null, 
+        "utc_offset": null, 
+        "verified": true
+    }
+}{
+    "contributors": null, 
+    "coordinates": null, 
+    "created_at": "Sun Sep 22 17:13:05 +0000 2019", 
+    "entities": {
+        "hashtags": [], 
+        "symbols": [], 
+        "urls": [
+            {
+                "display_url": "twitter.com/i/web/status/1\u2026", 
+                "expanded_url": "https://twitter.com/i/web/status/1175820322597232640", 
+                "indices": [
+                    117, 
+                    140
+                ], 
+                "url": "https://t.co/FQCLqmL3Rh"
+            }
+        ], 
+        "user_mentions": [
+            {
+                "id": 3167257102, 
+                "id_str": "3167257102", 
+                "indices": [
+                    0, 
+                    15
+                ], 
+                "name": "Everyday Astronaut", 
+                "screen_name": "Erdayastronaut"
+            }
+        ]
+    }, 
+    "favorite_count": 1738, 
+    "favorited": false, 
+    "geo": null, 
+    "id": 1175820322597232640, 
+    "id_str": "1175820322597232640", 
+    "in_reply_to_screen_name": "elonmusk", 
+    "in_reply_to_status_id": 1175818733648003072, 
+    "in_reply_to_status_id_str": "1175818733648003072", 
+    "in_reply_to_user_id": 44196397, 
+    "in_reply_to_user_id_str": "44196397", 
+    "is_quote_status": false, 
+    "lang": "en", 
+    "place": null, 
+    "retweet_count": 86, 
+    "retweeted": false, 
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", 
+    "text": "@Erdayastronaut Current analysis, which I\u2019m not fully bought into, suggests that 2 rear fins with separate airframe\u2026 https://t.co/FQCLqmL3Rh", 
+    "truncated": true, 
+    "user": {
+        "contributors_enabled": false, 
+        "created_at": "Tue Jun 02 20:12:29 +0000 2009", 
+        "default_profile": false, 
+        "default_profile_image": false, 
+        "description": "", 
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        }, 
+        "favourites_count": 3884, 
+        "follow_request_sent": false, 
+        "followers_count": 28338038, 
+        "following": false, 
+        "friends_count": 82, 
+        "geo_enabled": false, 
+        "has_extended_profile": true, 
+        "id": 44196397, 
+        "id_str": "44196397", 
+        "is_translation_enabled": false, 
+        "is_translator": false, 
+        "lang": null, 
+        "listed_count": 51459, 
+        "location": "", 
+        "name": "Elon Musk", 
+        "notifications": false, 
+        "profile_background_color": "C0DEED", 
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+        "profile_background_tile": false, 
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/44196397/1556675519", 
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1170974240796889089/aLuyoQiu_normal.jpg", 
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1170974240796889089/aLuyoQiu_normal.jpg", 
+        "profile_link_color": "0084B4", 
+        "profile_sidebar_border_color": "C0DEED", 
+        "profile_sidebar_fill_color": "DDEEF6", 
+        "profile_text_color": "333333", 
+        "profile_use_background_image": true, 
+        "protected": false, 
+        "screen_name": "elonmusk", 
+        "statuses_count": 8840, 
+        "time_zone": null, 
+        "translator_type": "none", 
+        "url": null, 
+        "utc_offset": null, 
+        "verified": true
+    }
+}{
+    "contributors": null, 
+    "coordinates": null, 
+    "created_at": "Sun Sep 22 17:06:46 +0000 2019", 
+    "entities": {
+        "hashtags": [], 
+        "symbols": [], 
+        "urls": [
+            {
+                "display_url": "twitter.com/i/web/status/1\u2026", 
+                "expanded_url": "https://twitter.com/i/web/status/1175818733648003072", 
+                "indices": [
+                    125, 
+                    148
+                ], 
+                "url": "https://t.co/AD3eTwn2IQ"
+            }
+        ], 
+        "user_mentions": [
+            {
+                "id": 3167257102, 
+                "id_str": "3167257102", 
+                "indices": [
+                    0, 
+                    15
+                ], 
+                "name": "Everyday Astronaut", 
+                "screen_name": "Erdayastronaut"
+            }
+        ]
+    }, 
+    "favorite_count": 1662, 
+    "favorited": false, 
+    "geo": null, 
+    "id": 1175818733648003072, 
+    "id_str": "1175818733648003072", 
+    "in_reply_to_screen_name": "Erdayastronaut", 
+    "in_reply_to_status_id": 1175816448729669632, 
+    "in_reply_to_status_id_str": "1175816448729669632", 
+    "in_reply_to_user_id": 3167257102, 
+    "in_reply_to_user_id_str": "3167257102", 
+    "is_quote_status": false, 
+    "lang": "en", 
+    "place": null, 
+    "retweet_count": 84, 
+    "retweeted": false, 
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", 
+    "text": "@Erdayastronaut Stability is controlled by (very) rapid movement of rear &amp; fwd fins during entry &amp; landing, as well\u2026 https://t.co/AD3eTwn2IQ", 
+    "truncated": true, 
+    "user": {
+        "contributors_enabled": false, 
+        "created_at": "Tue Jun 02 20:12:29 +0000 2009", 
+        "default_profile": false, 
+        "default_profile_image": false, 
+        "description": "", 
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        }, 
+        "favourites_count": 3884, 
+        "follow_request_sent": false, 
+        "followers_count": 28338038, 
+        "following": false, 
+        "friends_count": 82, 
+        "geo_enabled": false, 
+        "has_extended_profile": true, 
+        "id": 44196397, 
+        "id_str": "44196397", 
+        "is_translation_enabled": false, 
+        "is_translator": false, 
+        "lang": null, 
+        "listed_count": 51459, 
+        "location": "", 
+        "name": "Elon Musk", 
+        "notifications": false, 
+        "profile_background_color": "C0DEED", 
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+        "profile_background_tile": false, 
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/44196397/1556675519", 
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1170974240796889089/aLuyoQiu_normal.jpg", 
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1170974240796889089/aLuyoQiu_normal.jpg", 
+        "profile_link_color": "0084B4", 
+        "profile_sidebar_border_color": "C0DEED", 
+        "profile_sidebar_fill_color": "DDEEF6", 
+        "profile_text_color": "333333", 
+        "profile_use_background_image": true, 
+        "protected": false, 
+        "screen_name": "elonmusk", 
+        "statuses_count": 8840, 
+        "time_zone": null, 
+        "translator_type": "none", 
+        "url": null, 
+        "utc_offset": null, 
+        "verified": true
+    }
+}{
+    "contributors": null, 
+    "coordinates": null, 
+    "created_at": "Sun Sep 22 16:55:38 +0000 2019", 
+    "entities": {
+        "hashtags": [], 
+        "symbols": [], 
+        "urls": [], 
+        "user_mentions": [
+            {
+                "id": 3167257102, 
+                "id_str": "3167257102", 
+                "indices": [
+                    0, 
+                    15
+                ], 
+                "name": "Everyday Astronaut", 
+                "screen_name": "Erdayastronaut"
+            }
+        ]
+    }, 
+    "favorite_count": 1563, 
+    "favorited": false, 
+    "geo": null, 
+    "id": 1175815930384924677, 
+    "id_str": "1175815930384924677", 
+    "in_reply_to_screen_name": "Erdayastronaut", 
+    "in_reply_to_status_id": 1175814187261583361, 
+    "in_reply_to_status_id_str": "1175814187261583361", 
+    "in_reply_to_user_id": 3167257102, 
+    "in_reply_to_user_id_str": "3167257102", 
+    "is_quote_status": false, 
+    "lang": "en", 
+    "place": null, 
+    "retweet_count": 53, 
+    "retweeted": false, 
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", 
+    "text": "@Erdayastronaut Stability is not an issue with 3", 
+    "truncated": false, 
+    "user": {
+        "contributors_enabled": false, 
+        "created_at": "Tue Jun 02 20:12:29 +0000 2009", 
+        "default_profile": false, 
+        "default_profile_image": false, 
+        "description": "", 
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        }, 
+        "favourites_count": 3884, 
+        "follow_request_sent": false, 
+        "followers_count": 28338039, 
+        "following": false, 
+        "friends_count": 82, 
+        "geo_enabled": false, 
+        "has_extended_profile": true, 
+        "id": 44196397, 
+        "id_str": "44196397", 
+        "is_translation_enabled": false, 
+        "is_translator": false, 
+        "lang": null, 
+        "listed_count": 51459, 
+        "location": "", 
+        "name": "Elon Musk", 
+        "notifications": false, 
+        "profile_background_color": "C0DEED", 
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+        "profile_background_tile": false, 
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/44196397/1556675519", 
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1170974240796889089/aLuyoQiu_normal.jpg", 
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1170974240796889089/aLuyoQiu_normal.jpg", 
+        "profile_link_color": "0084B4", 
+        "profile_sidebar_border_color": "C0DEED", 
+        "profile_sidebar_fill_color": "DDEEF6", 
+        "profile_text_color": "333333", 
+        "profile_use_background_image": true, 
+        "protected": false, 
+        "screen_name": "elonmusk", 
+        "statuses_count": 8840, 
+        "time_zone": null, 
+        "translator_type": "none", 
+        "url": null, 
+        "utc_offset": null, 
+        "verified": true
+    }
+}{
+    "contributors": null, 
+    "coordinates": null, 
+    "created_at": "Sun Sep 22 16:54:26 +0000 2019", 
+    "entities": {
+        "hashtags": [], 
+        "symbols": [], 
+        "urls": [
+            {
+                "display_url": "twitter.com/i/web/status/1\u2026", 
+                "expanded_url": "https://twitter.com/i/web/status/1175815628525060096", 
+                "indices": [
+                    117, 
+                    140
+                ], 
+                "url": "https://t.co/KDEoFX9mdP"
+            }
+        ], 
+        "user_mentions": [
+            {
+                "id": 1579586473, 
+                "id_str": "1579586473", 
+                "indices": [
+                    0, 
+                    12
+                ], 
+                "name": "Anthony Iemole", 
+                "screen_name": "SpaceXFan97"
+            }
+        ]
+    }, 
+    "favorite_count": 1365, 
+    "favorited": false, 
+    "geo": null, 
+    "id": 1175815628525060096, 
+    "id_str": "1175815628525060096", 
+    "in_reply_to_screen_name": "elonmusk", 
+    "in_reply_to_status_id": 1175814780323545093, 
+    "in_reply_to_status_id_str": "1175814780323545093", 
+    "in_reply_to_user_id": 44196397, 
+    "in_reply_to_user_id_str": "44196397", 
+    "is_quote_status": false, 
+    "lang": "en", 
+    "place": null, 
+    "retweet_count": 87, 
+    "retweeted": false, 
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", 
+    "text": "@SpaceXFan97 Nose tip has forward movable fins, cold gas attitude control thrusters, header tanks for landing, comp\u2026 https://t.co/KDEoFX9mdP", 
+    "truncated": true, 
+    "user": {
+        "contributors_enabled": false, 
+        "created_at": "Tue Jun 02 20:12:29 +0000 2009", 
+        "default_profile": false, 
+        "default_profile_image": false, 
+        "description": "", 
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        }, 
+        "favourites_count": 3884, 
+        "follow_request_sent": false, 
+        "followers_count": 28338039, 
+        "following": false, 
+        "friends_count": 82, 
+        "geo_enabled": false, 
+        "has_extended_profile": true, 
+        "id": 44196397, 
+        "id_str": "44196397", 
+        "is_translation_enabled": false, 
+        "is_translator": false, 
+        "lang": null, 
+        "listed_count": 51459, 
+        "location": "", 
+        "name": "Elon Musk", 
+        "notifications": false, 
+        "profile_background_color": "C0DEED", 
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+        "profile_background_tile": false, 
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/44196397/1556675519", 
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1170974240796889089/aLuyoQiu_normal.jpg", 
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1170974240796889089/aLuyoQiu_normal.jpg", 
+        "profile_link_color": "0084B4", 
+        "profile_sidebar_border_color": "C0DEED", 
+        "profile_sidebar_fill_color": "DDEEF6", 
+        "profile_text_color": "333333", 
+        "profile_use_background_image": true, 
+        "protected": false, 
+        "screen_name": "elonmusk", 
+        "statuses_count": 8840, 
+        "time_zone": null, 
+        "translator_type": "none", 
+        "url": null, 
+        "utc_offset": null, 
+        "verified": true
+    }
+}{
+    "contributors": null, 
+    "coordinates": null, 
+    "created_at": "Sun Sep 22 16:51:03 +0000 2019", 
+    "entities": {
+        "hashtags": [], 
+        "symbols": [], 
+        "urls": [
+            {
+                "display_url": "twitter.com/i/web/status/1\u2026", 
+                "expanded_url": "https://twitter.com/i/web/status/1175814780323545093", 
+                "indices": [
+                    117, 
+                    140
+                ], 
+                "url": "https://t.co/8jESW17JE2"
+            }
+        ], 
+        "user_mentions": [
+            {
+                "id": 1579586473, 
+                "id_str": "1579586473", 
+                "indices": [
+                    0, 
+                    12
+                ], 
+                "name": "Anthony Iemole", 
+                "screen_name": "SpaceXFan97"
+            }
+        ]
+    }, 
+    "favorite_count": 1273, 
+    "favorited": false, 
+    "geo": null, 
+    "id": 1175814780323545093, 
+    "id_str": "1175814780323545093", 
+    "in_reply_to_screen_name": "SpaceXFan97", 
+    "in_reply_to_status_id": 1175814497593962499, 
+    "in_reply_to_status_id_str": "1175814497593962499", 
+    "in_reply_to_user_id": 1579586473, 
+    "in_reply_to_user_id_str": "1579586473", 
+    "is_quote_status": false, 
+    "lang": "en", 
+    "place": null, 
+    "retweet_count": 58, 
+    "retweeted": false, 
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", 
+    "text": "@SpaceXFan97 Yes. There\u2019s a huge amount of hardware in the tip of the faring that being integrated on the ground, w\u2026 https://t.co/8jESW17JE2", 
+    "truncated": true, 
+    "user": {
+        "contributors_enabled": false, 
+        "created_at": "Tue Jun 02 20:12:29 +0000 2009", 
+        "default_profile": false, 
+        "default_profile_image": false, 
+        "description": "", 
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        }, 
+        "favourites_count": 3884, 
+        "follow_request_sent": false, 
+        "followers_count": 28338039, 
+        "following": false, 
+        "friends_count": 82, 
+        "geo_enabled": false, 
+        "has_extended_profile": true, 
+        "id": 44196397, 
+        "id_str": "44196397", 
+        "is_translation_enabled": false, 
+        "is_translator": false, 
+        "lang": null, 
+        "listed_count": 51459, 
+        "location": "", 
+        "name": "Elon Musk", 
+        "notifications": false, 
+        "profile_background_color": "C0DEED", 
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+        "profile_background_tile": false, 
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/44196397/1556675519", 
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1170974240796889089/aLuyoQiu_normal.jpg", 
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1170974240796889089/aLuyoQiu_normal.jpg", 
+        "profile_link_color": "0084B4", 
+        "profile_sidebar_border_color": "C0DEED", 
+        "profile_sidebar_fill_color": "DDEEF6", 
+        "profile_text_color": "333333", 
+        "profile_use_background_image": true, 
+        "protected": false, 
+        "screen_name": "elonmusk", 
+        "statuses_count": 8840, 
+        "time_zone": null, 
+        "translator_type": "none", 
+        "url": null, 
+        "utc_offset": null, 
+        "verified": true
+    }
+}{
+    "contributors": null, 
+    "coordinates": null, 
+    "created_at": "Sun Sep 22 16:41:28 +0000 2019", 
+    "entities": {
+        "hashtags": [], 
+        "media": [
+            {
+                "display_url": "pic.twitter.com/HWLihqihph", 
+                "expanded_url": "https://twitter.com/elonmusk/status/1175812366019244032/photo/1", 
+                "id": 1175812358670901248, 
+                "id_str": "1175812358670901248", 
+                "indices": [
+                    65, 
+                    88
+                ], 
+                "media_url": "http://pbs.twimg.com/media/EFFTHEkX4AAGwxp.jpg", 
+                "media_url_https": "https://pbs.twimg.com/media/EFFTHEkX4AAGwxp.jpg", 
+                "sizes": {
+                    "large": {
+                        "h": 853, 
+                        "resize": "fit", 
+                        "w": 640
+                    }, 
+                    "medium": {
+                        "h": 853, 
+                        "resize": "fit", 
+                        "w": 640
+                    }, 
+                    "small": {
+                        "h": 680, 
+                        "resize": "fit", 
+                        "w": 510
+                    }, 
+                    "thumb": {
+                        "h": 150, 
+                        "resize": "crop", 
+                        "w": 150
+                    }
+                }, 
+                "type": "photo", 
+                "url": "https://t.co/HWLihqihph"
+            }
+        ], 
+        "symbols": [], 
+        "urls": [], 
+        "user_mentions": []
+    }, 
+    "extended_entities": {
+        "media": [
+            {
+                "display_url": "pic.twitter.com/HWLihqihph", 
+                "expanded_url": "https://twitter.com/elonmusk/status/1175812366019244032/photo/1", 
+                "id": 1175812358670901248, 
+                "id_str": "1175812358670901248", 
+                "indices": [
+                    65, 
+                    88
+                ], 
+                "media_url": "http://pbs.twimg.com/media/EFFTHEkX4AAGwxp.jpg", 
+                "media_url_https": "https://pbs.twimg.com/media/EFFTHEkX4AAGwxp.jpg", 
+                "sizes": {
+                    "large": {
+                        "h": 853, 
+                        "resize": "fit", 
+                        "w": 640
+                    }, 
+                    "medium": {
+                        "h": 853, 
+                        "resize": "fit", 
+                        "w": 640
+                    }, 
+                    "small": {
+                        "h": 680, 
+                        "resize": "fit", 
+                        "w": 510
+                    }, 
+                    "thumb": {
+                        "h": 150, 
+                        "resize": "crop", 
+                        "w": 150
+                    }
+                }, 
+                "type": "photo", 
+                "url": "https://t.co/HWLihqihph"
+            }
+        ]
+    }, 
+    "favorite_count": 36859, 
+    "favorited": false, 
+    "geo": null, 
+    "id": 1175812366019244032, 
+    "id_str": "1175812366019244032", 
+    "in_reply_to_screen_name": null, 
+    "in_reply_to_status_id": null, 
+    "in_reply_to_status_id_str": null, 
+    "in_reply_to_user_id": null, 
+    "in_reply_to_user_id_str": null, 
+    "is_quote_status": false, 
+    "lang": "en", 
+    "place": null, 
+    "possibly_sensitive": false, 
+    "retweet_count": 2954, 
+    "retweeted": false, 
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", 
+    "text": "Adding the rear moving fins to Starship Mk1 in Boca Chica, Texas https://t.co/HWLihqihph", 
+    "truncated": false, 
+    "user": {
+        "contributors_enabled": false, 
+        "created_at": "Tue Jun 02 20:12:29 +0000 2009", 
+        "default_profile": false, 
+        "default_profile_image": false, 
+        "description": "", 
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        }, 
+        "favourites_count": 3884, 
+        "follow_request_sent": false, 
+        "followers_count": 28338039, 
+        "following": false, 
+        "friends_count": 82, 
+        "geo_enabled": false, 
+        "has_extended_profile": true, 
+        "id": 44196397, 
+        "id_str": "44196397", 
+        "is_translation_enabled": false, 
+        "is_translator": false, 
+        "lang": null, 
+        "listed_count": 51459, 
+        "location": "", 
+        "name": "Elon Musk", 
+        "notifications": false, 
+        "profile_background_color": "C0DEED", 
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+        "profile_background_tile": false, 
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/44196397/1556675519", 
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1170974240796889089/aLuyoQiu_normal.jpg", 
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1170974240796889089/aLuyoQiu_normal.jpg", 
+        "profile_link_color": "0084B4", 
+        "profile_sidebar_border_color": "C0DEED", 
+        "profile_sidebar_fill_color": "DDEEF6", 
+        "profile_text_color": "333333", 
+        "profile_use_background_image": true, 
+        "protected": false, 
+        "screen_name": "elonmusk", 
+        "statuses_count": 8840, 
+        "time_zone": null, 
+        "translator_type": "none", 
+        "url": null, 
+        "utc_offset": null, 
+        "verified": true
+    }
+}{
+    "contributors": null, 
+    "coordinates": null, 
+    "created_at": "Sun Sep 22 16:25:48 +0000 2019", 
+    "entities": {
+        "hashtags": [], 
+        "symbols": [], 
+        "urls": [
+            {
+                "display_url": "teslarati.com/tesla-model-3-\u2026", 
+                "expanded_url": "https://www.teslarati.com/tesla-model-3-perfect-safety-ratings-video", 
+                "indices": [
+                    83, 
+                    106
+                ], 
+                "url": "https://t.co/U0zQsfe0DQ"
+            }
+        ], 
+        "user_mentions": [
+            {
+                "id": 1308211178, 
+                "id_str": "1308211178", 
+                "indices": [
+                    3, 
+                    13
+                ], 
+                "name": "TESLARATI", 
+                "screen_name": "Teslarati"
+            }
+        ]
+    }, 
+    "favorite_count": 0, 
+    "favorited": false, 
+    "geo": null, 
+    "id": 1175808422924771329, 
+    "id_str": "1175808422924771329", 
+    "in_reply_to_screen_name": null, 
+    "in_reply_to_status_id": null, 
+    "in_reply_to_status_id_str": null, 
+    "in_reply_to_user_id": null, 
+    "in_reply_to_user_id_str": null, 
+    "is_quote_status": false, 
+    "lang": "en", 
+    "place": null, 
+    "possibly_sensitive": false, 
+    "retweet_count": 242, 
+    "retweeted": false, 
+    "retweeted_status": {
+        "contributors": null, 
+        "coordinates": null, 
+        "created_at": "Sun Sep 22 09:30:04 +0000 2019", 
+        "entities": {
+            "hashtags": [], 
+            "symbols": [], 
+            "urls": [
+                {
+                    "display_url": "teslarati.com/tesla-model-3-\u2026", 
+                    "expanded_url": "https://www.teslarati.com/tesla-model-3-perfect-safety-ratings-video", 
+                    "indices": [
+                        68, 
+                        91
+                    ], 
+                    "url": "https://t.co/U0zQsfe0DQ"
+                }
+            ], 
+            "user_mentions": []
+        }, 
+        "favorite_count": 3198, 
+        "favorited": false, 
+        "geo": null, 
+        "id": 1175703803636670466, 
+        "id_str": "1175703803636670466", 
+        "in_reply_to_screen_name": null, 
+        "in_reply_to_status_id": null, 
+        "in_reply_to_status_id_str": null, 
+        "in_reply_to_user_id": null, 
+        "in_reply_to_user_id_str": null, 
+        "is_quote_status": false, 
+        "lang": "en", 
+        "place": null, 
+        "possibly_sensitive": false, 
+        "retweet_count": 242, 
+        "retweeted": false, 
+        "source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>", 
+        "text": "Tesla Model 3\u2019s stellar safety ratings highlighted in fan-made spec\nhttps://t.co/U0zQsfe0DQ", 
+        "truncated": false, 
+        "user": {
+            "contributors_enabled": false, 
+            "created_at": "Wed Mar 27 18:13:53 +0000 2013", 
+            "default_profile": false, 
+            "default_profile_image": false, 
+            "description": "Tesla, SpaceX, Elon Musk, and #FutureTech (alter ego @teslaratiapp)", 
+            "entities": {
+                "description": {
+                    "urls": []
+                }, 
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "teslarati.com", 
+                            "expanded_url": "https://www.teslarati.com/", 
+                            "indices": [
+                                0, 
+                                23
+                            ], 
+                            "url": "https://t.co/cAxO0Q5o3M"
+                        }
+                    ]
+                }
+            }, 
+            "favourites_count": 3631, 
+            "follow_request_sent": false, 
+            "followers_count": 125410, 
+            "following": false, 
+            "friends_count": 71, 
+            "geo_enabled": true, 
+            "has_extended_profile": false, 
+            "id": 1308211178, 
+            "id_str": "1308211178", 
+            "is_translation_enabled": false, 
+            "is_translator": false, 
+            "lang": null, 
+            "listed_count": 868, 
+            "location": "California", 
+            "name": "TESLARATI", 
+            "notifications": false, 
+            "profile_background_color": "000000", 
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+            "profile_background_tile": false, 
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1308211178/1398972972", 
+            "profile_image_url": "http://pbs.twimg.com/profile_images/967139929888243712/kpeiQiVn_normal.jpg", 
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/967139929888243712/kpeiQiVn_normal.jpg", 
+            "profile_link_color": "0084B4", 
+            "profile_sidebar_border_color": "FFFFFF", 
+            "profile_sidebar_fill_color": "DDEEF6", 
+            "profile_text_color": "333333", 
+            "profile_use_background_image": true, 
+            "protected": false, 
+            "screen_name": "Teslarati", 
+            "statuses_count": 7882, 
+            "time_zone": null, 
+            "translator_type": "none", 
+            "url": "https://t.co/cAxO0Q5o3M", 
+            "utc_offset": null, 
+            "verified": false
+        }
+    }, 
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", 
+    "text": "RT @Teslarati: Tesla Model 3\u2019s stellar safety ratings highlighted in fan-made spec\nhttps://t.co/U0zQsfe0DQ", 
+    "truncated": false, 
+    "user": {
+        "contributors_enabled": false, 
+        "created_at": "Tue Jun 02 20:12:29 +0000 2009", 
+        "default_profile": false, 
+        "default_profile_image": false, 
+        "description": "", 
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        }, 
+        "favourites_count": 3884, 
+        "follow_request_sent": false, 
+        "followers_count": 28338039, 
+        "following": false, 
+        "friends_count": 82, 
+        "geo_enabled": false, 
+        "has_extended_profile": true, 
+        "id": 44196397, 
+        "id_str": "44196397", 
+        "is_translation_enabled": false, 
+        "is_translator": false, 
+        "lang": null, 
+        "listed_count": 51459, 
+        "location": "", 
+        "name": "Elon Musk", 
+        "notifications": false, 
+        "profile_background_color": "C0DEED", 
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+        "profile_background_tile": false, 
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/44196397/1556675519", 
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1170974240796889089/aLuyoQiu_normal.jpg", 
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1170974240796889089/aLuyoQiu_normal.jpg", 
+        "profile_link_color": "0084B4", 
+        "profile_sidebar_border_color": "C0DEED", 
+        "profile_sidebar_fill_color": "DDEEF6", 
+        "profile_text_color": "333333", 
+        "profile_use_background_image": true, 
+        "protected": false, 
+        "screen_name": "elonmusk", 
+        "statuses_count": 8840, 
+        "time_zone": null, 
+        "translator_type": "none", 
+        "url": null, 
+        "utc_offset": null, 
+        "verified": true
+    }
+}{
+    "contributors": null, 
+    "coordinates": null, 
+    "created_at": "Sun Sep 22 16:17:26 +0000 2019", 
+    "entities": {
+        "hashtags": [], 
+        "symbols": [], 
+        "urls": [], 
+        "user_mentions": [
+            {
+                "id": 1016059981907386368, 
+                "id_str": "1016059981907386368", 
+                "indices": [
+                    0, 
+                    14
+                ], 
+                "name": "Tesla Owners Silicon Valley", 
+                "screen_name": "teslaownersSV"
+            }
+        ]
+    }, 
+    "favorite_count": 872, 
+    "favorited": false, 
+    "geo": null, 
+    "id": 1175806316977278977, 
+    "id_str": "1175806316977278977", 
+    "in_reply_to_screen_name": "teslaownersSV", 
+    "in_reply_to_status_id": 1175802456518713345, 
+    "in_reply_to_status_id_str": "1175802456518713345", 
+    "in_reply_to_user_id": 1016059981907386368, 
+    "in_reply_to_user_id_str": "1016059981907386368", 
+    "is_quote_status": false, 
+    "lang": "en", 
+    "place": null, 
+    "retweet_count": 28, 
+    "retweeted": false, 
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", 
+    "text": "@teslaownersSV Thanks!", 
+    "truncated": false, 
+    "user": {
+        "contributors_enabled": false, 
+        "created_at": "Tue Jun 02 20:12:29 +0000 2009", 
+        "default_profile": false, 
+        "default_profile_image": false, 
+        "description": "", 
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        }, 
+        "favourites_count": 3884, 
+        "follow_request_sent": false, 
+        "followers_count": 28338039, 
+        "following": false, 
+        "friends_count": 82, 
+        "geo_enabled": false, 
+        "has_extended_profile": true, 
+        "id": 44196397, 
+        "id_str": "44196397", 
+        "is_translation_enabled": false, 
+        "is_translator": false, 
+        "lang": null, 
+        "listed_count": 51459, 
+        "location": "", 
+        "name": "Elon Musk", 
+        "notifications": false, 
+        "profile_background_color": "C0DEED", 
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+        "profile_background_tile": false, 
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/44196397/1556675519", 
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1170974240796889089/aLuyoQiu_normal.jpg", 
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1170974240796889089/aLuyoQiu_normal.jpg", 
+        "profile_link_color": "0084B4", 
+        "profile_sidebar_border_color": "C0DEED", 
+        "profile_sidebar_fill_color": "DDEEF6", 
+        "profile_text_color": "333333", 
+        "profile_use_background_image": true, 
+        "protected": false, 
+        "screen_name": "elonmusk", 
+        "statuses_count": 8840, 
+        "time_zone": null, 
+        "translator_type": "none", 
+        "url": null, 
+        "utc_offset": null, 
+        "verified": true
+    }
+}{
+    "contributors": null, 
+    "coordinates": null, 
+    "created_at": "Sun Sep 22 15:59:44 +0000 2019", 
+    "entities": {
+        "hashtags": [], 
+        "symbols": [], 
+        "urls": [
+            {
+                "display_url": "twitter.com/cleantechnica/\u2026", 
+                "expanded_url": "https://twitter.com/cleantechnica/status/1175628597018734592", 
+                "indices": [
+                    38, 
+                    61
+                ], 
+                "url": "https://t.co/13hB5hd2Hc"
             }
         ], 
         "user_mentions": []
     }, 
-    "favorite_count": 9616, 
+    "favorite_count": 82272, 
     "favorited": false, 
     "geo": null, 
-    "id": 1172960999856410625, 
-    "id_str": "1172960999856410625", 
+    "id": 1175801866212524032, 
+    "id_str": "1175801866212524032", 
     "in_reply_to_screen_name": null, 
     "in_reply_to_status_id": null, 
     "in_reply_to_status_id_str": null, 
@@ -217,34 +1815,34 @@
     "quoted_status": {
         "contributors": null, 
         "coordinates": null, 
-        "created_at": "Sat Sep 14 18:31:41 +0000 2019", 
+        "created_at": "Sun Sep 22 04:31:14 +0000 2019", 
         "entities": {
             "hashtags": [], 
             "media": [
                 {
-                    "display_url": "pic.twitter.com/2DQGwX81l8", 
-                    "expanded_url": "https://twitter.com/cleantechnica/status/1172941000463044609/photo/1", 
-                    "id": 1172940998617522189, 
-                    "id_str": "1172940998617522189", 
+                    "display_url": "pic.twitter.com/qulHsvzeDY", 
+                    "expanded_url": "https://twitter.com/cleantechnica/status/1175628597018734592/photo/1", 
+                    "id": 1175628595429068802, 
+                    "id_str": "1175628595429068802", 
                     "indices": [
-                        110, 
-                        133
+                        93, 
+                        116
                     ], 
-                    "media_url": "http://pbs.twimg.com/media/EEcfn60W4A0HvQA.png", 
-                    "media_url_https": "https://pbs.twimg.com/media/EEcfn60W4A0HvQA.png", 
+                    "media_url": "http://pbs.twimg.com/media/EFCr-pJXUAIeEt9.jpg", 
+                    "media_url_https": "https://pbs.twimg.com/media/EFCr-pJXUAIeEt9.jpg", 
                     "sizes": {
                         "large": {
-                            "h": 634, 
+                            "h": 804, 
                             "resize": "fit", 
                             "w": 1024
                         }, 
                         "medium": {
-                            "h": 634, 
+                            "h": 804, 
                             "resize": "fit", 
                             "w": 1024
                         }, 
                         "small": {
-                            "h": 421, 
+                            "h": 534, 
                             "resize": "fit", 
                             "w": 680
                         }, 
@@ -255,19 +1853,19 @@
                         }
                     }, 
                     "type": "photo", 
-                    "url": "https://t.co/2DQGwX81l8"
+                    "url": "https://t.co/qulHsvzeDY"
                 }
             ], 
             "symbols": [], 
             "urls": [
                 {
-                    "display_url": "cleantechnica.com/2019/09/14/tes\u2026", 
-                    "expanded_url": "https://cleantechnica.com/2019/09/14/tesla-announces-simple-pricing-on-commercial-solar-1-01-watt-will-blow-some-minds/", 
+                    "display_url": "cleantechnica.com/2019/09/22/tes\u2026", 
+                    "expanded_url": "https://cleantechnica.com/2019/09/22/tesla-vs-porsche-ev-rivalry-accelerates-the-death-of-fossil-vehicles/", 
                     "indices": [
-                        86, 
-                        109
+                        69, 
+                        92
                     ], 
-                    "url": "https://t.co/cXkG7OyLPJ"
+                    "url": "https://t.co/PLEnujRoDe"
                 }
             ], 
             "user_mentions": []
@@ -275,29 +1873,29 @@
         "extended_entities": {
             "media": [
                 {
-                    "display_url": "pic.twitter.com/2DQGwX81l8", 
-                    "expanded_url": "https://twitter.com/cleantechnica/status/1172941000463044609/photo/1", 
-                    "id": 1172940998617522189, 
-                    "id_str": "1172940998617522189", 
+                    "display_url": "pic.twitter.com/qulHsvzeDY", 
+                    "expanded_url": "https://twitter.com/cleantechnica/status/1175628597018734592/photo/1", 
+                    "id": 1175628595429068802, 
+                    "id_str": "1175628595429068802", 
                     "indices": [
-                        110, 
-                        133
+                        93, 
+                        116
                     ], 
-                    "media_url": "http://pbs.twimg.com/media/EEcfn60W4A0HvQA.png", 
-                    "media_url_https": "https://pbs.twimg.com/media/EEcfn60W4A0HvQA.png", 
+                    "media_url": "http://pbs.twimg.com/media/EFCr-pJXUAIeEt9.jpg", 
+                    "media_url_https": "https://pbs.twimg.com/media/EFCr-pJXUAIeEt9.jpg", 
                     "sizes": {
                         "large": {
-                            "h": 634, 
+                            "h": 804, 
                             "resize": "fit", 
                             "w": 1024
                         }, 
                         "medium": {
-                            "h": 634, 
+                            "h": 804, 
                             "resize": "fit", 
                             "w": 1024
                         }, 
                         "small": {
-                            "h": 421, 
+                            "h": 534, 
                             "resize": "fit", 
                             "w": 680
                         }, 
@@ -308,15 +1906,15 @@
                         }
                     }, 
                     "type": "photo", 
-                    "url": "https://t.co/2DQGwX81l8"
+                    "url": "https://t.co/qulHsvzeDY"
                 }
             ]
         }, 
-        "favorite_count": 604, 
+        "favorite_count": 3170, 
         "favorited": false, 
         "geo": null, 
-        "id": 1172941000463044609, 
-        "id_str": "1172941000463044609", 
+        "id": 1175628597018734592, 
+        "id_str": "1175628597018734592", 
         "in_reply_to_screen_name": null, 
         "in_reply_to_status_id": null, 
         "in_reply_to_status_id_str": null, 
@@ -326,10 +1924,10 @@
         "lang": "en", 
         "place": null, 
         "possibly_sensitive": false, 
-        "retweet_count": 135, 
+        "retweet_count": 368, 
         "retweeted": false, 
         "source": "<a href=\"http://publicize.wp.com/\" rel=\"nofollow\">WordPress.com</a>", 
-        "text": "Tesla Announces Simple Pricing On Commercial Solar, $1.01/Watt (Will Blow Some\u00a0Minds) https://t.co/cXkG7OyLPJ https://t.co/2DQGwX81l8", 
+        "text": "Tesla vs Porsche EV Rivalry Accelerates the Death of Fossil\u00a0Vehicles https://t.co/PLEnujRoDe https://t.co/qulHsvzeDY", 
         "truncated": false, 
         "user": {
             "contributors_enabled": false, 
@@ -355,11 +1953,11 @@
                     ]
                 }
             }, 
-            "favourites_count": 2673, 
+            "favourites_count": 2731, 
             "follow_request_sent": false, 
-            "followers_count": 102190, 
+            "followers_count": 103527, 
             "following": false, 
-            "friends_count": 139, 
+            "friends_count": 141, 
             "geo_enabled": false, 
             "has_extended_profile": false, 
             "id": 17060015, 
@@ -367,7 +1965,7 @@
             "is_translation_enabled": false, 
             "is_translator": false, 
             "lang": null, 
-            "listed_count": 2445, 
+            "listed_count": 2458, 
             "location": "", 
             "name": "CleanTechnica", 
             "notifications": false, 
@@ -385,7 +1983,7 @@
             "profile_use_background_image": false, 
             "protected": false, 
             "screen_name": "cleantechnica", 
-            "statuses_count": 42363, 
+            "statuses_count": 42489, 
             "time_zone": null, 
             "translator_type": "none", 
             "url": "http://t.co/xWehwh1qy0", 
@@ -393,12 +1991,12 @@
             "verified": false
         }
     }, 
-    "quoted_status_id": 1172941000463044609, 
-    "quoted_status_id_str": "1172941000463044609", 
-    "retweet_count": 831, 
+    "quoted_status_id": 1175628597018734592, 
+    "quoted_status_id_str": "1175628597018734592", 
+    "retweet_count": 7360, 
     "retweeted": false, 
     "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", 
-    "text": "Good analysis. You can order commercial solar in literally 30 secs if you use Apple Pay at https://t.co/sCkn87vMa9. https://t.co/V1rNPM1Hdk", 
+    "text": "Either way, sustainable energy wins!! https://t.co/13hB5hd2Hc", 
     "truncated": false, 
     "user": {
         "contributors_enabled": false, 
@@ -411,11 +2009,11 @@
                 "urls": []
             }
         }, 
-        "favourites_count": 3817, 
+        "favourites_count": 3884, 
         "follow_request_sent": false, 
-        "followers_count": 28228984, 
+        "followers_count": 28338039, 
         "following": false, 
-        "friends_count": 83, 
+        "friends_count": 82, 
         "geo_enabled": false, 
         "has_extended_profile": true, 
         "id": 44196397, 
@@ -423,7 +2021,7 @@
         "is_translation_enabled": false, 
         "is_translator": false, 
         "lang": null, 
-        "listed_count": 51348, 
+        "listed_count": 51459, 
         "location": "", 
         "name": "Elon Musk", 
         "notifications": false, 
@@ -441,7 +2039,7 @@
         "profile_use_background_image": true, 
         "protected": false, 
         "screen_name": "elonmusk", 
-        "statuses_count": 8748, 
+        "statuses_count": 8840, 
         "time_zone": null, 
         "translator_type": "none", 
         "url": null, 
@@ -451,656 +2049,41 @@
 }{
     "contributors": null, 
     "coordinates": null, 
-    "created_at": "Sat Sep 14 19:33:39 +0000 2019", 
-    "entities": {
-        "hashtags": [], 
-        "symbols": [], 
-        "urls": [
-            {
-                "display_url": "twitter.com/i/web/status/1\u2026", 
-                "expanded_url": "https://twitter.com/i/web/status/1172956594365071361", 
-                "indices": [
-                    121, 
-                    144
-                ], 
-                "url": "https://t.co/kA7cbDfU9S"
-            }
-        ], 
-        "user_mentions": [
-            {
-                "id": 1119111969066246145, 
-                "id_str": "1119111969066246145", 
-                "indices": [
-                    0, 
-                    13
-                ], 
-                "name": "Parag Jain", 
-                "screen_name": "TeslaForLife"
-            }, 
-            {
-                "id": 1016059981907386368, 
-                "id_str": "1016059981907386368", 
-                "indices": [
-                    14, 
-                    28
-                ], 
-                "name": "Tesla Owners Silicon Valley", 
-                "screen_name": "teslaownersSV"
-            }, 
-            {
-                "id": 985686123123949568, 
-                "id_str": "985686123123949568", 
-                "indices": [
-                    29, 
-                    43
-                ], 
-                "name": "K10\u2728", 
-                "screen_name": "Kristennetten"
-            }, 
-            {
-                "id": 704835627183788032, 
-                "id_str": "704835627183788032", 
-                "indices": [
-                    44, 
-                    57
-                ], 
-                "name": "Tesla Owners Online", 
-                "screen_name": "Model3Owners"
-            }
-        ]
-    }, 
-    "favorite_count": 865, 
-    "favorited": false, 
-    "geo": null, 
-    "id": 1172956594365071361, 
-    "id_str": "1172956594365071361", 
-    "in_reply_to_screen_name": "TeslaForLife", 
-    "in_reply_to_status_id": 1172933031083905024, 
-    "in_reply_to_status_id_str": "1172933031083905024", 
-    "in_reply_to_user_id": 1119111969066246145, 
-    "in_reply_to_user_id_str": "1119111969066246145", 
-    "is_quote_status": false, 
-    "lang": "en", 
-    "place": null, 
-    "retweet_count": 83, 
-    "retweeted": false, 
-    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", 
-    "text": "@TeslaForLife @teslaownersSV @Kristennetten @Model3Owners Exactly! We\u2019ve only one car factory in California &amp; one G\u2026 https://t.co/kA7cbDfU9S", 
-    "truncated": true, 
-    "user": {
-        "contributors_enabled": false, 
-        "created_at": "Tue Jun 02 20:12:29 +0000 2009", 
-        "default_profile": false, 
-        "default_profile_image": false, 
-        "description": "", 
-        "entities": {
-            "description": {
-                "urls": []
-            }
-        }, 
-        "favourites_count": 3817, 
-        "follow_request_sent": false, 
-        "followers_count": 28228984, 
-        "following": false, 
-        "friends_count": 83, 
-        "geo_enabled": false, 
-        "has_extended_profile": true, 
-        "id": 44196397, 
-        "id_str": "44196397", 
-        "is_translation_enabled": false, 
-        "is_translator": false, 
-        "lang": null, 
-        "listed_count": 51348, 
-        "location": "", 
-        "name": "Elon Musk", 
-        "notifications": false, 
-        "profile_background_color": "C0DEED", 
-        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
-        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
-        "profile_background_tile": false, 
-        "profile_banner_url": "https://pbs.twimg.com/profile_banners/44196397/1556675519", 
-        "profile_image_url": "http://pbs.twimg.com/profile_images/1170974240796889089/aLuyoQiu_normal.jpg", 
-        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1170974240796889089/aLuyoQiu_normal.jpg", 
-        "profile_link_color": "0084B4", 
-        "profile_sidebar_border_color": "C0DEED", 
-        "profile_sidebar_fill_color": "DDEEF6", 
-        "profile_text_color": "333333", 
-        "profile_use_background_image": true, 
-        "protected": false, 
-        "screen_name": "elonmusk", 
-        "statuses_count": 8748, 
-        "time_zone": null, 
-        "translator_type": "none", 
-        "url": null, 
-        "utc_offset": null, 
-        "verified": true
-    }
-}{
-    "contributors": null, 
-    "coordinates": null, 
-    "created_at": "Sat Sep 14 17:59:08 +0000 2019", 
-    "entities": {
-        "hashtags": [], 
-        "symbols": [], 
-        "urls": [
-            {
-                "display_url": "twitter.com/i/web/status/1\u2026", 
-                "expanded_url": "https://twitter.com/i/web/status/1172932809297498113", 
-                "indices": [
-                    121, 
-                    144
-                ], 
-                "url": "https://t.co/FvLKdYRID2"
-            }
-        ], 
-        "user_mentions": [
-            {
-                "id": 1016059981907386368, 
-                "id_str": "1016059981907386368", 
-                "indices": [
-                    0, 
-                    14
-                ], 
-                "name": "Tesla Owners Silicon Valley", 
-                "screen_name": "teslaownersSV"
-            }, 
-            {
-                "id": 985686123123949568, 
-                "id_str": "985686123123949568", 
-                "indices": [
-                    15, 
-                    29
-                ], 
-                "name": "K10\u2728", 
-                "screen_name": "Kristennetten"
-            }, 
-            {
-                "id": 704835627183788032, 
-                "id_str": "704835627183788032", 
-                "indices": [
-                    30, 
-                    43
-                ], 
-                "name": "Tesla Owners Online", 
-                "screen_name": "Model3Owners"
-            }
-        ]
-    }, 
-    "favorite_count": 534, 
-    "favorited": false, 
-    "geo": null, 
-    "id": 1172932809297498113, 
-    "id_str": "1172932809297498113", 
-    "in_reply_to_screen_name": "elonmusk", 
-    "in_reply_to_status_id": 1172930768986722304, 
-    "in_reply_to_status_id_str": "1172930768986722304", 
-    "in_reply_to_user_id": 44196397, 
-    "in_reply_to_user_id_str": "44196397", 
-    "is_quote_status": false, 
-    "lang": "en", 
-    "place": null, 
-    "retweet_count": 43, 
-    "retweeted": false, 
-    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", 
-    "text": "@teslaownersSV @Kristennetten @Model3Owners Should note that these product mix &amp; logistics errors also results in r\u2026 https://t.co/FvLKdYRID2", 
-    "truncated": true, 
-    "user": {
-        "contributors_enabled": false, 
-        "created_at": "Tue Jun 02 20:12:29 +0000 2009", 
-        "default_profile": false, 
-        "default_profile_image": false, 
-        "description": "", 
-        "entities": {
-            "description": {
-                "urls": []
-            }
-        }, 
-        "favourites_count": 3817, 
-        "follow_request_sent": false, 
-        "followers_count": 28228984, 
-        "following": false, 
-        "friends_count": 83, 
-        "geo_enabled": false, 
-        "has_extended_profile": true, 
-        "id": 44196397, 
-        "id_str": "44196397", 
-        "is_translation_enabled": false, 
-        "is_translator": false, 
-        "lang": null, 
-        "listed_count": 51348, 
-        "location": "", 
-        "name": "Elon Musk", 
-        "notifications": false, 
-        "profile_background_color": "C0DEED", 
-        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
-        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
-        "profile_background_tile": false, 
-        "profile_banner_url": "https://pbs.twimg.com/profile_banners/44196397/1556675519", 
-        "profile_image_url": "http://pbs.twimg.com/profile_images/1170974240796889089/aLuyoQiu_normal.jpg", 
-        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1170974240796889089/aLuyoQiu_normal.jpg", 
-        "profile_link_color": "0084B4", 
-        "profile_sidebar_border_color": "C0DEED", 
-        "profile_sidebar_fill_color": "DDEEF6", 
-        "profile_text_color": "333333", 
-        "profile_use_background_image": true, 
-        "protected": false, 
-        "screen_name": "elonmusk", 
-        "statuses_count": 8748, 
-        "time_zone": null, 
-        "translator_type": "none", 
-        "url": null, 
-        "utc_offset": null, 
-        "verified": true
-    }
-}{
-    "contributors": null, 
-    "coordinates": null, 
-    "created_at": "Sat Sep 14 17:53:24 +0000 2019", 
-    "entities": {
-        "hashtags": [], 
-        "symbols": [], 
-        "urls": [
-            {
-                "display_url": "twitter.com/i/web/status/1\u2026", 
-                "expanded_url": "https://twitter.com/i/web/status/1172931367958540288", 
-                "indices": [
-                    117, 
-                    140
-                ], 
-                "url": "https://t.co/g4LU7F7f82"
-            }
-        ], 
-        "user_mentions": [
-            {
-                "id": 1016059981907386368, 
-                "id_str": "1016059981907386368", 
-                "indices": [
-                    0, 
-                    14
-                ], 
-                "name": "Tesla Owners Silicon Valley", 
-                "screen_name": "teslaownersSV"
-            }, 
-            {
-                "id": 985686123123949568, 
-                "id_str": "985686123123949568", 
-                "indices": [
-                    15, 
-                    29
-                ], 
-                "name": "K10\u2728", 
-                "screen_name": "Kristennetten"
-            }, 
-            {
-                "id": 704835627183788032, 
-                "id_str": "704835627183788032", 
-                "indices": [
-                    30, 
-                    43
-                ], 
-                "name": "Tesla Owners Online", 
-                "screen_name": "Model3Owners"
-            }
-        ]
-    }, 
-    "favorite_count": 470, 
-    "favorited": false, 
-    "geo": null, 
-    "id": 1172931367958540288, 
-    "id_str": "1172931367958540288", 
-    "in_reply_to_screen_name": "elonmusk", 
-    "in_reply_to_status_id": 1172930768986722304, 
-    "in_reply_to_status_id_str": "1172930768986722304", 
-    "in_reply_to_user_id": 44196397, 
-    "in_reply_to_user_id_str": "44196397", 
-    "is_quote_status": false, 
-    "lang": "en", 
-    "place": null, 
-    "retweet_count": 25, 
-    "retweeted": false, 
-    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", 
-    "text": "@teslaownersSV @Kristennetten @Model3Owners That\u2019s not to say that Tesla people somewhere in the world are being ov\u2026 https://t.co/g4LU7F7f82", 
-    "truncated": true, 
-    "user": {
-        "contributors_enabled": false, 
-        "created_at": "Tue Jun 02 20:12:29 +0000 2009", 
-        "default_profile": false, 
-        "default_profile_image": false, 
-        "description": "", 
-        "entities": {
-            "description": {
-                "urls": []
-            }
-        }, 
-        "favourites_count": 3817, 
-        "follow_request_sent": false, 
-        "followers_count": 28228984, 
-        "following": false, 
-        "friends_count": 83, 
-        "geo_enabled": false, 
-        "has_extended_profile": true, 
-        "id": 44196397, 
-        "id_str": "44196397", 
-        "is_translation_enabled": false, 
-        "is_translator": false, 
-        "lang": null, 
-        "listed_count": 51348, 
-        "location": "", 
-        "name": "Elon Musk", 
-        "notifications": false, 
-        "profile_background_color": "C0DEED", 
-        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
-        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
-        "profile_background_tile": false, 
-        "profile_banner_url": "https://pbs.twimg.com/profile_banners/44196397/1556675519", 
-        "profile_image_url": "http://pbs.twimg.com/profile_images/1170974240796889089/aLuyoQiu_normal.jpg", 
-        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1170974240796889089/aLuyoQiu_normal.jpg", 
-        "profile_link_color": "0084B4", 
-        "profile_sidebar_border_color": "C0DEED", 
-        "profile_sidebar_fill_color": "DDEEF6", 
-        "profile_text_color": "333333", 
-        "profile_use_background_image": true, 
-        "protected": false, 
-        "screen_name": "elonmusk", 
-        "statuses_count": 8748, 
-        "time_zone": null, 
-        "translator_type": "none", 
-        "url": null, 
-        "utc_offset": null, 
-        "verified": true
-    }
-}{
-    "contributors": null, 
-    "coordinates": null, 
-    "created_at": "Sat Sep 14 17:51:01 +0000 2019", 
-    "entities": {
-        "hashtags": [], 
-        "symbols": [], 
-        "urls": [
-            {
-                "display_url": "twitter.com/i/web/status/1\u2026", 
-                "expanded_url": "https://twitter.com/i/web/status/1172930768986722304", 
-                "indices": [
-                    117, 
-                    140
-                ], 
-                "url": "https://t.co/CSx5xGXfOC"
-            }
-        ], 
-        "user_mentions": [
-            {
-                "id": 1016059981907386368, 
-                "id_str": "1016059981907386368", 
-                "indices": [
-                    0, 
-                    14
-                ], 
-                "name": "Tesla Owners Silicon Valley", 
-                "screen_name": "teslaownersSV"
-            }, 
-            {
-                "id": 985686123123949568, 
-                "id_str": "985686123123949568", 
-                "indices": [
-                    15, 
-                    29
-                ], 
-                "name": "K10\u2728", 
-                "screen_name": "Kristennetten"
-            }, 
-            {
-                "id": 704835627183788032, 
-                "id_str": "704835627183788032", 
-                "indices": [
-                    30, 
-                    43
-                ], 
-                "name": "Tesla Owners Online", 
-                "screen_name": "Model3Owners"
-            }
-        ]
-    }, 
-    "favorite_count": 682, 
-    "favorited": false, 
-    "geo": null, 
-    "id": 1172930768986722304, 
-    "id_str": "1172930768986722304", 
-    "in_reply_to_screen_name": "teslaownersSV", 
-    "in_reply_to_status_id": 1172929759812079617, 
-    "in_reply_to_status_id_str": "1172929759812079617", 
-    "in_reply_to_user_id": 1016059981907386368, 
-    "in_reply_to_user_id_str": "1016059981907386368", 
-    "is_quote_status": false, 
-    "lang": "en", 
-    "place": null, 
-    "retweet_count": 50, 
-    "retweeted": false, 
-    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", 
-    "text": "@teslaownersSV @Kristennetten @Model3Owners At end of quarter, there is always some error in product mix allocation\u2026 https://t.co/CSx5xGXfOC", 
-    "truncated": true, 
-    "user": {
-        "contributors_enabled": false, 
-        "created_at": "Tue Jun 02 20:12:29 +0000 2009", 
-        "default_profile": false, 
-        "default_profile_image": false, 
-        "description": "", 
-        "entities": {
-            "description": {
-                "urls": []
-            }
-        }, 
-        "favourites_count": 3817, 
-        "follow_request_sent": false, 
-        "followers_count": 28228984, 
-        "following": false, 
-        "friends_count": 83, 
-        "geo_enabled": false, 
-        "has_extended_profile": true, 
-        "id": 44196397, 
-        "id_str": "44196397", 
-        "is_translation_enabled": false, 
-        "is_translator": false, 
-        "lang": null, 
-        "listed_count": 51348, 
-        "location": "", 
-        "name": "Elon Musk", 
-        "notifications": false, 
-        "profile_background_color": "C0DEED", 
-        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
-        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
-        "profile_background_tile": false, 
-        "profile_banner_url": "https://pbs.twimg.com/profile_banners/44196397/1556675519", 
-        "profile_image_url": "http://pbs.twimg.com/profile_images/1170974240796889089/aLuyoQiu_normal.jpg", 
-        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1170974240796889089/aLuyoQiu_normal.jpg", 
-        "profile_link_color": "0084B4", 
-        "profile_sidebar_border_color": "C0DEED", 
-        "profile_sidebar_fill_color": "DDEEF6", 
-        "profile_text_color": "333333", 
-        "profile_use_background_image": true, 
-        "protected": false, 
-        "screen_name": "elonmusk", 
-        "statuses_count": 8748, 
-        "time_zone": null, 
-        "translator_type": "none", 
-        "url": null, 
-        "utc_offset": null, 
-        "verified": true
-    }
-}{
-    "contributors": null, 
-    "coordinates": null, 
-    "created_at": "Sat Sep 14 17:45:58 +0000 2019", 
-    "entities": {
-        "hashtags": [], 
-        "symbols": [], 
-        "urls": [
-            {
-                "display_url": "twitter.com/i/web/status/1\u2026", 
-                "expanded_url": "https://twitter.com/i/web/status/1172929497995173888", 
-                "indices": [
-                    117, 
-                    140
-                ], 
-                "url": "https://t.co/I6Sgfkc8m2"
-            }
-        ], 
-        "user_mentions": [
-            {
-                "id": 985686123123949568, 
-                "id_str": "985686123123949568", 
-                "indices": [
-                    0, 
-                    14
-                ], 
-                "name": "K10\u2728", 
-                "screen_name": "Kristennetten"
-            }, 
-            {
-                "id": 704835627183788032, 
-                "id_str": "704835627183788032", 
-                "indices": [
-                    15, 
-                    28
-                ], 
-                "name": "Tesla Owners Online", 
-                "screen_name": "Model3Owners"
-            }
-        ]
-    }, 
-    "favorite_count": 465, 
-    "favorited": false, 
-    "geo": null, 
-    "id": 1172929497995173888, 
-    "id_str": "1172929497995173888", 
-    "in_reply_to_screen_name": "Kristennetten", 
-    "in_reply_to_status_id": 1172918377444044800, 
-    "in_reply_to_status_id_str": "1172918377444044800", 
-    "in_reply_to_user_id": 985686123123949568, 
-    "in_reply_to_user_id_str": "985686123123949568", 
-    "is_quote_status": false, 
-    "lang": "en", 
-    "place": null, 
-    "retweet_count": 38, 
-    "retweeted": false, 
-    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", 
-    "text": "@Kristennetten @Model3Owners The fundamental operating principle is that prices, while they may change, will change\u2026 https://t.co/I6Sgfkc8m2", 
-    "truncated": true, 
-    "user": {
-        "contributors_enabled": false, 
-        "created_at": "Tue Jun 02 20:12:29 +0000 2009", 
-        "default_profile": false, 
-        "default_profile_image": false, 
-        "description": "", 
-        "entities": {
-            "description": {
-                "urls": []
-            }
-        }, 
-        "favourites_count": 3817, 
-        "follow_request_sent": false, 
-        "followers_count": 28228984, 
-        "following": false, 
-        "friends_count": 83, 
-        "geo_enabled": false, 
-        "has_extended_profile": true, 
-        "id": 44196397, 
-        "id_str": "44196397", 
-        "is_translation_enabled": false, 
-        "is_translator": false, 
-        "lang": null, 
-        "listed_count": 51348, 
-        "location": "", 
-        "name": "Elon Musk", 
-        "notifications": false, 
-        "profile_background_color": "C0DEED", 
-        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
-        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
-        "profile_background_tile": false, 
-        "profile_banner_url": "https://pbs.twimg.com/profile_banners/44196397/1556675519", 
-        "profile_image_url": "http://pbs.twimg.com/profile_images/1170974240796889089/aLuyoQiu_normal.jpg", 
-        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1170974240796889089/aLuyoQiu_normal.jpg", 
-        "profile_link_color": "0084B4", 
-        "profile_sidebar_border_color": "C0DEED", 
-        "profile_sidebar_fill_color": "DDEEF6", 
-        "profile_text_color": "333333", 
-        "profile_use_background_image": true, 
-        "protected": false, 
-        "screen_name": "elonmusk", 
-        "statuses_count": 8748, 
-        "time_zone": null, 
-        "translator_type": "none", 
-        "url": null, 
-        "utc_offset": null, 
-        "verified": true
-    }
-}{
-    "contributors": null, 
-    "coordinates": null, 
-    "created_at": "Sat Sep 14 17:25:44 +0000 2019", 
+    "created_at": "Sun Sep 22 07:04:02 +0000 2019", 
     "entities": {
         "hashtags": [], 
         "symbols": [], 
         "urls": [], 
         "user_mentions": [
             {
-                "id": 1060180551544528897, 
-                "id_str": "1060180551544528897", 
+                "id": 17060015, 
+                "id_str": "17060015", 
                 "indices": [
                     0, 
-                    8
+                    14
                 ], 
-                "name": "Viv", 
-                "screen_name": "flcnhvy"
-            }, 
-            {
-                "id": 425098245, 
-                "id_str": "425098245", 
-                "indices": [
-                    9, 
-                    22
-                ], 
-                "name": "Jason Y", 
-                "screen_name": "hoofhrtd1254"
-            }, 
-            {
-                "id": 1250367589, 
-                "id_str": "1250367589", 
-                "indices": [
-                    23, 
-                    35
-                ], 
-                "name": "Teslatunity", 
-                "screen_name": "Teslatunity"
-            }, 
-            {
-                "id": 704835627183788032, 
-                "id_str": "704835627183788032", 
-                "indices": [
-                    36, 
-                    49
-                ], 
-                "name": "Tesla Owners Online", 
-                "screen_name": "Model3Owners"
+                "name": "CleanTechnica", 
+                "screen_name": "cleantechnica"
             }
         ]
     }, 
-    "favorite_count": 421, 
+    "favorite_count": 2392, 
     "favorited": false, 
     "geo": null, 
-    "id": 1172924402461073408, 
-    "id_str": "1172924402461073408", 
-    "in_reply_to_screen_name": "flcnhvy", 
-    "in_reply_to_status_id": 1172920889987543040, 
-    "in_reply_to_status_id_str": "1172920889987543040", 
-    "in_reply_to_user_id": 1060180551544528897, 
-    "in_reply_to_user_id_str": "1060180551544528897", 
+    "id": 1175667051786067969, 
+    "id_str": "1175667051786067969", 
+    "in_reply_to_screen_name": "cleantechnica", 
+    "in_reply_to_status_id": 1175662315062140928, 
+    "in_reply_to_status_id_str": "1175662315062140928", 
+    "in_reply_to_user_id": 17060015, 
+    "in_reply_to_user_id_str": "17060015", 
     "is_quote_status": false, 
     "lang": "en", 
     "place": null, 
-    "retweet_count": 16, 
+    "retweet_count": 110, 
     "retweeted": false, 
     "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", 
-    "text": "@flcnhvy @hoofhrtd1254 @Teslatunity @Model3Owners Agreed", 
+    "text": "@cleantechnica srsly", 
     "truncated": false, 
     "user": {
         "contributors_enabled": false, 
@@ -1113,11 +2096,11 @@
                 "urls": []
             }
         }, 
-        "favourites_count": 3817, 
+        "favourites_count": 3884, 
         "follow_request_sent": false, 
-        "followers_count": 28228984, 
+        "followers_count": 28338039, 
         "following": false, 
-        "friends_count": 83, 
+        "friends_count": 82, 
         "geo_enabled": false, 
         "has_extended_profile": true, 
         "id": 44196397, 
@@ -1125,7 +2108,7 @@
         "is_translation_enabled": false, 
         "is_translator": false, 
         "lang": null, 
-        "listed_count": 51348, 
+        "listed_count": 51459, 
         "location": "", 
         "name": "Elon Musk", 
         "notifications": false, 
@@ -1143,7 +2126,7 @@
         "profile_use_background_image": true, 
         "protected": false, 
         "screen_name": "elonmusk", 
-        "statuses_count": 8748, 
+        "statuses_count": 8840, 
         "time_zone": null, 
         "translator_type": "none", 
         "url": null, 
@@ -1153,373 +2136,179 @@
 }{
     "contributors": null, 
     "coordinates": null, 
-    "created_at": "Sat Sep 14 17:10:01 +0000 2019", 
-    "entities": {
-        "hashtags": [], 
-        "symbols": [], 
-        "urls": [
-            {
-                "display_url": "twitter.com/i/web/status/1\u2026", 
-                "expanded_url": "https://twitter.com/i/web/status/1172920449929363456", 
-                "indices": [
-                    117, 
-                    140
-                ], 
-                "url": "https://t.co/s5Pp3Vga7Z"
-            }
-        ], 
-        "user_mentions": [
-            {
-                "id": 425098245, 
-                "id_str": "425098245", 
-                "indices": [
-                    0, 
-                    13
-                ], 
-                "name": "Jason Y", 
-                "screen_name": "hoofhrtd1254"
-            }, 
-            {
-                "id": 1250367589, 
-                "id_str": "1250367589", 
-                "indices": [
-                    14, 
-                    26
-                ], 
-                "name": "Teslatunity", 
-                "screen_name": "Teslatunity"
-            }, 
-            {
-                "id": 704835627183788032, 
-                "id_str": "704835627183788032", 
-                "indices": [
-                    27, 
-                    40
-                ], 
-                "name": "Tesla Owners Online", 
-                "screen_name": "Model3Owners"
-            }
-        ]
-    }, 
-    "favorite_count": 621, 
-    "favorited": false, 
-    "geo": null, 
-    "id": 1172920449929363456, 
-    "id_str": "1172920449929363456", 
-    "in_reply_to_screen_name": "hoofhrtd1254", 
-    "in_reply_to_status_id": 1172919300618952704, 
-    "in_reply_to_status_id_str": "1172919300618952704", 
-    "in_reply_to_user_id": 425098245, 
-    "in_reply_to_user_id_str": "425098245", 
-    "is_quote_status": false, 
-    "lang": "en", 
-    "place": null, 
-    "retweet_count": 73, 
-    "retweeted": false, 
-    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", 
-    "text": "@hoofhrtd1254 @Teslatunity @Model3Owners Going to early access (including all who bought FSD) Tesla owners in US ne\u2026 https://t.co/s5Pp3Vga7Z", 
-    "truncated": true, 
-    "user": {
-        "contributors_enabled": false, 
-        "created_at": "Tue Jun 02 20:12:29 +0000 2009", 
-        "default_profile": false, 
-        "default_profile_image": false, 
-        "description": "", 
-        "entities": {
-            "description": {
-                "urls": []
-            }
-        }, 
-        "favourites_count": 3817, 
-        "follow_request_sent": false, 
-        "followers_count": 28228984, 
-        "following": false, 
-        "friends_count": 83, 
-        "geo_enabled": false, 
-        "has_extended_profile": true, 
-        "id": 44196397, 
-        "id_str": "44196397", 
-        "is_translation_enabled": false, 
-        "is_translator": false, 
-        "lang": null, 
-        "listed_count": 51348, 
-        "location": "", 
-        "name": "Elon Musk", 
-        "notifications": false, 
-        "profile_background_color": "C0DEED", 
-        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
-        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
-        "profile_background_tile": false, 
-        "profile_banner_url": "https://pbs.twimg.com/profile_banners/44196397/1556675519", 
-        "profile_image_url": "http://pbs.twimg.com/profile_images/1170974240796889089/aLuyoQiu_normal.jpg", 
-        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1170974240796889089/aLuyoQiu_normal.jpg", 
-        "profile_link_color": "0084B4", 
-        "profile_sidebar_border_color": "C0DEED", 
-        "profile_sidebar_fill_color": "DDEEF6", 
-        "profile_text_color": "333333", 
-        "profile_use_background_image": true, 
-        "protected": false, 
-        "screen_name": "elonmusk", 
-        "statuses_count": 8748, 
-        "time_zone": null, 
-        "translator_type": "none", 
-        "url": null, 
-        "utc_offset": null, 
-        "verified": true
-    }
-}{
-    "contributors": null, 
-    "coordinates": null, 
-    "created_at": "Sat Sep 14 17:03:08 +0000 2019", 
-    "entities": {
-        "hashtags": [], 
-        "symbols": [], 
-        "urls": [
-            {
-                "display_url": "twitter.com/i/web/status/1\u2026", 
-                "expanded_url": "https://twitter.com/i/web/status/1172918715450454016", 
-                "indices": [
-                    117, 
-                    140
-                ], 
-                "url": "https://t.co/7H2o34BpYJ"
-            }
-        ], 
-        "user_mentions": [
-            {
-                "id": 1250367589, 
-                "id_str": "1250367589", 
-                "indices": [
-                    0, 
-                    12
-                ], 
-                "name": "Teslatunity", 
-                "screen_name": "Teslatunity"
-            }, 
-            {
-                "id": 704835627183788032, 
-                "id_str": "704835627183788032", 
-                "indices": [
-                    13, 
-                    26
-                ], 
-                "name": "Tesla Owners Online", 
-                "screen_name": "Model3Owners"
-            }
-        ]
-    }, 
-    "favorite_count": 409, 
-    "favorited": false, 
-    "geo": null, 
-    "id": 1172918715450454016, 
-    "id_str": "1172918715450454016", 
-    "in_reply_to_screen_name": "Teslatunity", 
-    "in_reply_to_status_id": 1172916927997648899, 
-    "in_reply_to_status_id_str": "1172916927997648899", 
-    "in_reply_to_user_id": 1250367589, 
-    "in_reply_to_user_id_str": "1250367589", 
-    "is_quote_status": false, 
-    "lang": "en", 
-    "place": null, 
-    "retweet_count": 36, 
-    "retweeted": false, 
-    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", 
-    "text": "@Teslatunity @Model3Owners There aren\u2019t really meant to be \u201cTesla incentives\u201d, just general price changes to reflec\u2026 https://t.co/7H2o34BpYJ", 
-    "truncated": true, 
-    "user": {
-        "contributors_enabled": false, 
-        "created_at": "Tue Jun 02 20:12:29 +0000 2009", 
-        "default_profile": false, 
-        "default_profile_image": false, 
-        "description": "", 
-        "entities": {
-            "description": {
-                "urls": []
-            }
-        }, 
-        "favourites_count": 3817, 
-        "follow_request_sent": false, 
-        "followers_count": 28228984, 
-        "following": false, 
-        "friends_count": 83, 
-        "geo_enabled": false, 
-        "has_extended_profile": true, 
-        "id": 44196397, 
-        "id_str": "44196397", 
-        "is_translation_enabled": false, 
-        "is_translator": false, 
-        "lang": null, 
-        "listed_count": 51348, 
-        "location": "", 
-        "name": "Elon Musk", 
-        "notifications": false, 
-        "profile_background_color": "C0DEED", 
-        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
-        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
-        "profile_background_tile": false, 
-        "profile_banner_url": "https://pbs.twimg.com/profile_banners/44196397/1556675519", 
-        "profile_image_url": "http://pbs.twimg.com/profile_images/1170974240796889089/aLuyoQiu_normal.jpg", 
-        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1170974240796889089/aLuyoQiu_normal.jpg", 
-        "profile_link_color": "0084B4", 
-        "profile_sidebar_border_color": "C0DEED", 
-        "profile_sidebar_fill_color": "DDEEF6", 
-        "profile_text_color": "333333", 
-        "profile_use_background_image": true, 
-        "protected": false, 
-        "screen_name": "elonmusk", 
-        "statuses_count": 8748, 
-        "time_zone": null, 
-        "translator_type": "none", 
-        "url": null, 
-        "utc_offset": null, 
-        "verified": true
-    }
-}{
-    "contributors": null, 
-    "coordinates": null, 
-    "created_at": "Sat Sep 14 16:56:24 +0000 2019", 
-    "entities": {
-        "hashtags": [], 
-        "symbols": [], 
-        "urls": [
-            {
-                "display_url": "twitter.com/i/web/status/1\u2026", 
-                "expanded_url": "https://twitter.com/i/web/status/1172917021908099072", 
-                "indices": [
-                    117, 
-                    140
-                ], 
-                "url": "https://t.co/IsltebQilb"
-            }
-        ], 
-        "user_mentions": [
-            {
-                "id": 704835627183788032, 
-                "id_str": "704835627183788032", 
-                "indices": [
-                    0, 
-                    13
-                ], 
-                "name": "Tesla Owners Online", 
-                "screen_name": "Model3Owners"
-            }
-        ]
-    }, 
-    "favorite_count": 1280, 
-    "favorited": false, 
-    "geo": null, 
-    "id": 1172917021908099072, 
-    "id_str": "1172917021908099072", 
-    "in_reply_to_screen_name": "Model3Owners", 
-    "in_reply_to_status_id": 1172860251256827904, 
-    "in_reply_to_status_id_str": "1172860251256827904", 
-    "in_reply_to_user_id": 704835627183788032, 
-    "in_reply_to_user_id_str": "704835627183788032", 
-    "is_quote_status": false, 
-    "lang": "en", 
-    "place": null, 
-    "retweet_count": 77, 
-    "retweeted": false, 
-    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", 
-    "text": "@Model3Owners Looking into this. A fundamental premise of Tesla is that everyone is offered same terms at same time\u2026 https://t.co/IsltebQilb", 
-    "truncated": true, 
-    "user": {
-        "contributors_enabled": false, 
-        "created_at": "Tue Jun 02 20:12:29 +0000 2009", 
-        "default_profile": false, 
-        "default_profile_image": false, 
-        "description": "", 
-        "entities": {
-            "description": {
-                "urls": []
-            }
-        }, 
-        "favourites_count": 3817, 
-        "follow_request_sent": false, 
-        "followers_count": 28228984, 
-        "following": false, 
-        "friends_count": 83, 
-        "geo_enabled": false, 
-        "has_extended_profile": true, 
-        "id": 44196397, 
-        "id_str": "44196397", 
-        "is_translation_enabled": false, 
-        "is_translator": false, 
-        "lang": null, 
-        "listed_count": 51348, 
-        "location": "", 
-        "name": "Elon Musk", 
-        "notifications": false, 
-        "profile_background_color": "C0DEED", 
-        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
-        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
-        "profile_background_tile": false, 
-        "profile_banner_url": "https://pbs.twimg.com/profile_banners/44196397/1556675519", 
-        "profile_image_url": "http://pbs.twimg.com/profile_images/1170974240796889089/aLuyoQiu_normal.jpg", 
-        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1170974240796889089/aLuyoQiu_normal.jpg", 
-        "profile_link_color": "0084B4", 
-        "profile_sidebar_border_color": "C0DEED", 
-        "profile_sidebar_fill_color": "DDEEF6", 
-        "profile_text_color": "333333", 
-        "profile_use_background_image": true, 
-        "protected": false, 
-        "screen_name": "elonmusk", 
-        "statuses_count": 8748, 
-        "time_zone": null, 
-        "translator_type": "none", 
-        "url": null, 
-        "utc_offset": null, 
-        "verified": true
-    }
-}{
-    "contributors": null, 
-    "coordinates": null, 
-    "created_at": "Sat Sep 14 05:31:14 +0000 2019", 
+    "created_at": "Sat Sep 21 20:36:42 +0000 2019", 
     "entities": {
         "hashtags": [], 
         "symbols": [], 
         "urls": [], 
         "user_mentions": [
+            {
+                "id": 1689516060, 
+                "id_str": "1689516060", 
+                "indices": [
+                    0, 
+                    16
+                ], 
+                "name": "Vincent", 
+                "screen_name": "vincent13031925"
+            }, 
+            {
+                "id": 798749450223030272, 
+                "id_str": "798749450223030272", 
+                "indices": [
+                    17, 
+                    32
+                ], 
+                "name": "Simon Alvarez", 
+                "screen_name": "ResidentSponge"
+            }, 
+            {
+                "id": 1308211178, 
+                "id_str": "1308211178", 
+                "indices": [
+                    33, 
+                    43
+                ], 
+                "name": "TESLARATI", 
+                "screen_name": "Teslarati"
+            }
+        ]
+    }, 
+    "favorite_count": 3804, 
+    "favorited": false, 
+    "geo": null, 
+    "id": 1175509178200317953, 
+    "id_str": "1175509178200317953", 
+    "in_reply_to_screen_name": "vincent13031925", 
+    "in_reply_to_status_id": 1175418298772492288, 
+    "in_reply_to_status_id_str": "1175418298772492288", 
+    "in_reply_to_user_id": 1689516060, 
+    "in_reply_to_user_id_str": "1689516060", 
+    "is_quote_status": false, 
+    "lang": "en", 
+    "place": null, 
+    "retweet_count": 137, 
+    "retweeted": false, 
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", 
+    "text": "@vincent13031925 @ResidentSponge @Teslarati It\u2019s my \ud83d\udd25 glasses \ud83d\ude09", 
+    "truncated": false, 
+    "user": {
+        "contributors_enabled": false, 
+        "created_at": "Tue Jun 02 20:12:29 +0000 2009", 
+        "default_profile": false, 
+        "default_profile_image": false, 
+        "description": "", 
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        }, 
+        "favourites_count": 3884, 
+        "follow_request_sent": false, 
+        "followers_count": 28338039, 
+        "following": false, 
+        "friends_count": 82, 
+        "geo_enabled": false, 
+        "has_extended_profile": true, 
+        "id": 44196397, 
+        "id_str": "44196397", 
+        "is_translation_enabled": false, 
+        "is_translator": false, 
+        "lang": null, 
+        "listed_count": 51459, 
+        "location": "", 
+        "name": "Elon Musk", 
+        "notifications": false, 
+        "profile_background_color": "C0DEED", 
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+        "profile_background_tile": false, 
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/44196397/1556675519", 
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1170974240796889089/aLuyoQiu_normal.jpg", 
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1170974240796889089/aLuyoQiu_normal.jpg", 
+        "profile_link_color": "0084B4", 
+        "profile_sidebar_border_color": "C0DEED", 
+        "profile_sidebar_fill_color": "DDEEF6", 
+        "profile_text_color": "333333", 
+        "profile_use_background_image": true, 
+        "protected": false, 
+        "screen_name": "elonmusk", 
+        "statuses_count": 8840, 
+        "time_zone": null, 
+        "translator_type": "none", 
+        "url": null, 
+        "utc_offset": null, 
+        "verified": true
+    }
+}{
+    "contributors": null, 
+    "coordinates": null, 
+    "created_at": "Sat Sep 21 04:09:38 +0000 2019", 
+    "entities": {
+        "hashtags": [], 
+        "symbols": [], 
+        "urls": [
+            {
+                "display_url": "twitter.com/i/web/status/1\u2026", 
+                "expanded_url": "https://twitter.com/i/web/status/1175260773687472129", 
+                "indices": [
+                    116, 
+                    139
+                ], 
+                "url": "https://t.co/k62yAa6AXe"
+            }
+        ], 
+        "user_mentions": [
+            {
+                "id": 82431632, 
+                "id_str": "82431632", 
+                "indices": [
+                    0, 
+                    10
+                ], 
+                "name": "Chris (Robotbeat)\ud83d\uddfd\ud83d\udd96\ud83c\udffe", 
+                "screen_name": "Robotbeat"
+            }, 
             {
                 "id": 1080565281620193280, 
                 "id_str": "1080565281620193280", 
                 "indices": [
-                    0, 
-                    15
+                    11, 
+                    26
                 ], 
                 "name": "Pauline \ud83d\ude80", 
                 "screen_name": "justpaulinelol"
             }, 
             {
-                "id": 385173412, 
-                "id_str": "385173412", 
+                "id": 1308211178, 
+                "id_str": "1308211178", 
                 "indices": [
-                    16, 
-                    21
+                    27, 
+                    37
                 ], 
-                "name": "will \ud83c\udf39\ud83c\udf77", 
-                "screen_name": "31WA"
+                "name": "TESLARATI", 
+                "screen_name": "Teslarati"
             }
         ]
     }, 
-    "favorite_count": 766, 
+    "favorite_count": 1954, 
     "favorited": false, 
     "geo": null, 
-    "id": 1172744592891904001, 
-    "id_str": "1172744592891904001", 
-    "in_reply_to_screen_name": "justpaulinelol", 
-    "in_reply_to_status_id": 1172653114081591296, 
-    "in_reply_to_status_id_str": "1172653114081591296", 
-    "in_reply_to_user_id": 1080565281620193280, 
-    "in_reply_to_user_id_str": "1080565281620193280", 
+    "id": 1175260773687472129, 
+    "id_str": "1175260773687472129", 
+    "in_reply_to_screen_name": "Robotbeat", 
+    "in_reply_to_status_id": 1175260379611574274, 
+    "in_reply_to_status_id_str": "1175260379611574274", 
+    "in_reply_to_user_id": 82431632, 
+    "in_reply_to_user_id_str": "82431632", 
     "is_quote_status": false, 
     "lang": "en", 
     "place": null, 
-    "retweet_count": 34, 
+    "retweet_count": 128, 
     "retweeted": false, 
     "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", 
-    "text": "@justpaulinelol @31WA Hopefully, next year", 
-    "truncated": false, 
+    "text": "@Robotbeat @justpaulinelol @Teslarati Sure. Have to do it on Mars from beginning. Will ultimately do that on Earth\u2026 https://t.co/k62yAa6AXe", 
+    "truncated": true, 
     "user": {
         "contributors_enabled": false, 
         "created_at": "Tue Jun 02 20:12:29 +0000 2009", 
@@ -1531,11 +2320,11 @@
                 "urls": []
             }
         }, 
-        "favourites_count": 3817, 
+        "favourites_count": 3884, 
         "follow_request_sent": false, 
-        "followers_count": 28228984, 
+        "followers_count": 28338039, 
         "following": false, 
-        "friends_count": 83, 
+        "friends_count": 82, 
         "geo_enabled": false, 
         "has_extended_profile": true, 
         "id": 44196397, 
@@ -1543,7 +2332,7 @@
         "is_translation_enabled": false, 
         "is_translator": false, 
         "lang": null, 
-        "listed_count": 51348, 
+        "listed_count": 51459, 
         "location": "", 
         "name": "Elon Musk", 
         "notifications": false, 
@@ -1561,627 +2350,7 @@
         "profile_use_background_image": true, 
         "protected": false, 
         "screen_name": "elonmusk", 
-        "statuses_count": 8748, 
-        "time_zone": null, 
-        "translator_type": "none", 
-        "url": null, 
-        "utc_offset": null, 
-        "verified": true
-    }
-}{
-    "contributors": null, 
-    "coordinates": null, 
-    "created_at": "Sat Sep 14 05:20:08 +0000 2019", 
-    "entities": {
-        "hashtags": [], 
-        "symbols": [], 
-        "urls": [], 
-        "user_mentions": [
-            {
-                "id": 1068831, 
-                "id_str": "1068831", 
-                "indices": [
-                    0, 
-                    9
-                ], 
-                "name": "Slashdot", 
-                "screen_name": "slashdot"
-            }
-        ]
-    }, 
-    "favorite_count": 2705, 
-    "favorited": false, 
-    "geo": null, 
-    "id": 1172741801901346817, 
-    "id_str": "1172741801901346817", 
-    "in_reply_to_screen_name": "slashdot", 
-    "in_reply_to_status_id": 1172687018624573440, 
-    "in_reply_to_status_id_str": "1172687018624573440", 
-    "in_reply_to_user_id": 1068831, 
-    "in_reply_to_user_id_str": "1068831", 
-    "is_quote_status": false, 
-    "lang": "en", 
-    "place": null, 
-    "retweet_count": 180, 
-    "retweeted": false, 
-    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", 
-    "text": "@slashdot Personally, I think the universe looks great for 12 billion years, let alone 13.8", 
-    "truncated": false, 
-    "user": {
-        "contributors_enabled": false, 
-        "created_at": "Tue Jun 02 20:12:29 +0000 2009", 
-        "default_profile": false, 
-        "default_profile_image": false, 
-        "description": "", 
-        "entities": {
-            "description": {
-                "urls": []
-            }
-        }, 
-        "favourites_count": 3817, 
-        "follow_request_sent": false, 
-        "followers_count": 28228984, 
-        "following": false, 
-        "friends_count": 83, 
-        "geo_enabled": false, 
-        "has_extended_profile": true, 
-        "id": 44196397, 
-        "id_str": "44196397", 
-        "is_translation_enabled": false, 
-        "is_translator": false, 
-        "lang": null, 
-        "listed_count": 51348, 
-        "location": "", 
-        "name": "Elon Musk", 
-        "notifications": false, 
-        "profile_background_color": "C0DEED", 
-        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
-        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
-        "profile_background_tile": false, 
-        "profile_banner_url": "https://pbs.twimg.com/profile_banners/44196397/1556675519", 
-        "profile_image_url": "http://pbs.twimg.com/profile_images/1170974240796889089/aLuyoQiu_normal.jpg", 
-        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1170974240796889089/aLuyoQiu_normal.jpg", 
-        "profile_link_color": "0084B4", 
-        "profile_sidebar_border_color": "C0DEED", 
-        "profile_sidebar_fill_color": "DDEEF6", 
-        "profile_text_color": "333333", 
-        "profile_use_background_image": true, 
-        "protected": false, 
-        "screen_name": "elonmusk", 
-        "statuses_count": 8748, 
-        "time_zone": null, 
-        "translator_type": "none", 
-        "url": null, 
-        "utc_offset": null, 
-        "verified": true
-    }
-}{
-    "contributors": null, 
-    "coordinates": null, 
-    "created_at": "Sat Sep 14 01:37:07 +0000 2019", 
-    "entities": {
-        "hashtags": [], 
-        "symbols": [], 
-        "urls": [], 
-        "user_mentions": [
-            {
-                "id": 3101588527, 
-                "id_str": "3101588527", 
-                "indices": [
-                    0, 
-                    16
-                ], 
-                "name": "Wonder of Science", 
-                "screen_name": "wonderofscience"
-            }
-        ]
-    }, 
-    "favorite_count": 7975, 
-    "favorited": false, 
-    "geo": null, 
-    "id": 1172685676489277440, 
-    "id_str": "1172685676489277440", 
-    "in_reply_to_screen_name": "wonderofscience", 
-    "in_reply_to_status_id": 1171426852340207617, 
-    "in_reply_to_status_id_str": "1171426852340207617", 
-    "in_reply_to_user_id": 3101588527, 
-    "in_reply_to_user_id_str": "3101588527", 
-    "is_quote_status": false, 
-    "lang": "en", 
-    "place": null, 
-    "retweet_count": 374, 
-    "retweeted": false, 
-    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", 
-    "text": "@wonderofscience Sagan was awesome", 
-    "truncated": false, 
-    "user": {
-        "contributors_enabled": false, 
-        "created_at": "Tue Jun 02 20:12:29 +0000 2009", 
-        "default_profile": false, 
-        "default_profile_image": false, 
-        "description": "", 
-        "entities": {
-            "description": {
-                "urls": []
-            }
-        }, 
-        "favourites_count": 3817, 
-        "follow_request_sent": false, 
-        "followers_count": 28228984, 
-        "following": false, 
-        "friends_count": 83, 
-        "geo_enabled": false, 
-        "has_extended_profile": true, 
-        "id": 44196397, 
-        "id_str": "44196397", 
-        "is_translation_enabled": false, 
-        "is_translator": false, 
-        "lang": null, 
-        "listed_count": 51348, 
-        "location": "", 
-        "name": "Elon Musk", 
-        "notifications": false, 
-        "profile_background_color": "C0DEED", 
-        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
-        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
-        "profile_background_tile": false, 
-        "profile_banner_url": "https://pbs.twimg.com/profile_banners/44196397/1556675519", 
-        "profile_image_url": "http://pbs.twimg.com/profile_images/1170974240796889089/aLuyoQiu_normal.jpg", 
-        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1170974240796889089/aLuyoQiu_normal.jpg", 
-        "profile_link_color": "0084B4", 
-        "profile_sidebar_border_color": "C0DEED", 
-        "profile_sidebar_fill_color": "DDEEF6", 
-        "profile_text_color": "333333", 
-        "profile_use_background_image": true, 
-        "protected": false, 
-        "screen_name": "elonmusk", 
-        "statuses_count": 8748, 
-        "time_zone": null, 
-        "translator_type": "none", 
-        "url": null, 
-        "utc_offset": null, 
-        "verified": true
-    }
-}{
-    "contributors": null, 
-    "coordinates": null, 
-    "created_at": "Sat Sep 14 00:32:03 +0000 2019", 
-    "entities": {
-        "hashtags": [], 
-        "symbols": [], 
-        "urls": [
-            {
-                "display_url": "en.m.wikipedia.org/wiki/Tobacco_s\u2026", 
-                "expanded_url": "https://en.m.wikipedia.org/wiki/Tobacco_smoke_enema", 
-                "indices": [
-                    103, 
-                    126
-                ], 
-                "url": "https://t.co/P8SJGokLY8"
-            }
-        ], 
-        "user_mentions": [
-            {
-                "id": 86390214, 
-                "id_str": "86390214", 
-                "indices": [
-                    0, 
-                    10
-                ], 
-                "name": "Wikipedia", 
-                "screen_name": "Wikipedia"
-            }
-        ]
-    }, 
-    "favorite_count": 1716, 
-    "favorited": false, 
-    "geo": null, 
-    "id": 1172669301846708224, 
-    "id_str": "1172669301846708224", 
-    "in_reply_to_screen_name": "Wikipedia", 
-    "in_reply_to_status_id": 1172528108739518473, 
-    "in_reply_to_status_id_str": "1172528108739518473", 
-    "in_reply_to_user_id": 86390214, 
-    "in_reply_to_user_id_str": "86390214", 
-    "is_quote_status": false, 
-    "lang": "en", 
-    "place": null, 
-    "possibly_sensitive": false, 
-    "retweet_count": 106, 
-    "retweeted": false, 
-    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", 
-    "text": "@Wikipedia They used to have butt bellows for blowing smoke up your \u2026 along the Thames River in London https://t.co/P8SJGokLY8", 
-    "truncated": false, 
-    "user": {
-        "contributors_enabled": false, 
-        "created_at": "Tue Jun 02 20:12:29 +0000 2009", 
-        "default_profile": false, 
-        "default_profile_image": false, 
-        "description": "", 
-        "entities": {
-            "description": {
-                "urls": []
-            }
-        }, 
-        "favourites_count": 3817, 
-        "follow_request_sent": false, 
-        "followers_count": 28228984, 
-        "following": false, 
-        "friends_count": 83, 
-        "geo_enabled": false, 
-        "has_extended_profile": true, 
-        "id": 44196397, 
-        "id_str": "44196397", 
-        "is_translation_enabled": false, 
-        "is_translator": false, 
-        "lang": null, 
-        "listed_count": 51348, 
-        "location": "", 
-        "name": "Elon Musk", 
-        "notifications": false, 
-        "profile_background_color": "C0DEED", 
-        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
-        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
-        "profile_background_tile": false, 
-        "profile_banner_url": "https://pbs.twimg.com/profile_banners/44196397/1556675519", 
-        "profile_image_url": "http://pbs.twimg.com/profile_images/1170974240796889089/aLuyoQiu_normal.jpg", 
-        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1170974240796889089/aLuyoQiu_normal.jpg", 
-        "profile_link_color": "0084B4", 
-        "profile_sidebar_border_color": "C0DEED", 
-        "profile_sidebar_fill_color": "DDEEF6", 
-        "profile_text_color": "333333", 
-        "profile_use_background_image": true, 
-        "protected": false, 
-        "screen_name": "elonmusk", 
-        "statuses_count": 8748, 
-        "time_zone": null, 
-        "translator_type": "none", 
-        "url": null, 
-        "utc_offset": null, 
-        "verified": true
-    }
-}{
-    "contributors": null, 
-    "coordinates": null, 
-    "created_at": "Fri Sep 13 23:22:39 +0000 2019", 
-    "entities": {
-        "hashtags": [], 
-        "symbols": [], 
-        "urls": [], 
-        "user_mentions": [
-            {
-                "id": 385173412, 
-                "id_str": "385173412", 
-                "indices": [
-                    0, 
-                    5
-                ], 
-                "name": "will \ud83c\udf39\ud83c\udf77", 
-                "screen_name": "31WA"
-            }
-        ]
-    }, 
-    "favorite_count": 1010, 
-    "favorited": false, 
-    "geo": null, 
-    "id": 1172651839172399104, 
-    "id_str": "1172651839172399104", 
-    "in_reply_to_screen_name": "31WA", 
-    "in_reply_to_status_id": 1172649369436327936, 
-    "in_reply_to_status_id_str": "1172649369436327936", 
-    "in_reply_to_user_id": 385173412, 
-    "in_reply_to_user_id_str": "385173412", 
-    "is_quote_status": false, 
-    "lang": "en", 
-    "place": null, 
-    "retweet_count": 36, 
-    "retweeted": false, 
-    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", 
-    "text": "@31WA Haha exactly!", 
-    "truncated": false, 
-    "user": {
-        "contributors_enabled": false, 
-        "created_at": "Tue Jun 02 20:12:29 +0000 2009", 
-        "default_profile": false, 
-        "default_profile_image": false, 
-        "description": "", 
-        "entities": {
-            "description": {
-                "urls": []
-            }
-        }, 
-        "favourites_count": 3817, 
-        "follow_request_sent": false, 
-        "followers_count": 28228984, 
-        "following": false, 
-        "friends_count": 83, 
-        "geo_enabled": false, 
-        "has_extended_profile": true, 
-        "id": 44196397, 
-        "id_str": "44196397", 
-        "is_translation_enabled": false, 
-        "is_translator": false, 
-        "lang": null, 
-        "listed_count": 51348, 
-        "location": "", 
-        "name": "Elon Musk", 
-        "notifications": false, 
-        "profile_background_color": "C0DEED", 
-        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
-        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
-        "profile_background_tile": false, 
-        "profile_banner_url": "https://pbs.twimg.com/profile_banners/44196397/1556675519", 
-        "profile_image_url": "http://pbs.twimg.com/profile_images/1170974240796889089/aLuyoQiu_normal.jpg", 
-        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1170974240796889089/aLuyoQiu_normal.jpg", 
-        "profile_link_color": "0084B4", 
-        "profile_sidebar_border_color": "C0DEED", 
-        "profile_sidebar_fill_color": "DDEEF6", 
-        "profile_text_color": "333333", 
-        "profile_use_background_image": true, 
-        "protected": false, 
-        "screen_name": "elonmusk", 
-        "statuses_count": 8748, 
-        "time_zone": null, 
-        "translator_type": "none", 
-        "url": null, 
-        "utc_offset": null, 
-        "verified": true
-    }
-}{
-    "contributors": null, 
-    "coordinates": null, 
-    "created_at": "Fri Sep 13 23:21:36 +0000 2019", 
-    "entities": {
-        "hashtags": [], 
-        "symbols": [], 
-        "urls": [], 
-        "user_mentions": [
-            {
-                "id": 985686123123949568, 
-                "id_str": "985686123123949568", 
-                "indices": [
-                    0, 
-                    14
-                ], 
-                "name": "K10\u2728", 
-                "screen_name": "Kristennetten"
-            }
-        ]
-    }, 
-    "favorite_count": 1159, 
-    "favorited": false, 
-    "geo": null, 
-    "id": 1172651572213342208, 
-    "id_str": "1172651572213342208", 
-    "in_reply_to_screen_name": "Kristennetten", 
-    "in_reply_to_status_id": 1172650644974395392, 
-    "in_reply_to_status_id_str": "1172650644974395392", 
-    "in_reply_to_user_id": 985686123123949568, 
-    "in_reply_to_user_id_str": "985686123123949568", 
-    "is_quote_status": false, 
-    "lang": "und", 
-    "place": null, 
-    "retweet_count": 29, 
-    "retweeted": false, 
-    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", 
-    "text": "@Kristennetten Yes", 
-    "truncated": false, 
-    "user": {
-        "contributors_enabled": false, 
-        "created_at": "Tue Jun 02 20:12:29 +0000 2009", 
-        "default_profile": false, 
-        "default_profile_image": false, 
-        "description": "", 
-        "entities": {
-            "description": {
-                "urls": []
-            }
-        }, 
-        "favourites_count": 3817, 
-        "follow_request_sent": false, 
-        "followers_count": 28228984, 
-        "following": false, 
-        "friends_count": 83, 
-        "geo_enabled": false, 
-        "has_extended_profile": true, 
-        "id": 44196397, 
-        "id_str": "44196397", 
-        "is_translation_enabled": false, 
-        "is_translator": false, 
-        "lang": null, 
-        "listed_count": 51348, 
-        "location": "", 
-        "name": "Elon Musk", 
-        "notifications": false, 
-        "profile_background_color": "C0DEED", 
-        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
-        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
-        "profile_background_tile": false, 
-        "profile_banner_url": "https://pbs.twimg.com/profile_banners/44196397/1556675519", 
-        "profile_image_url": "http://pbs.twimg.com/profile_images/1170974240796889089/aLuyoQiu_normal.jpg", 
-        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1170974240796889089/aLuyoQiu_normal.jpg", 
-        "profile_link_color": "0084B4", 
-        "profile_sidebar_border_color": "C0DEED", 
-        "profile_sidebar_fill_color": "DDEEF6", 
-        "profile_text_color": "333333", 
-        "profile_use_background_image": true, 
-        "protected": false, 
-        "screen_name": "elonmusk", 
-        "statuses_count": 8748, 
-        "time_zone": null, 
-        "translator_type": "none", 
-        "url": null, 
-        "utc_offset": null, 
-        "verified": true
-    }
-}{
-    "contributors": null, 
-    "coordinates": null, 
-    "created_at": "Fri Sep 13 23:12:59 +0000 2019", 
-    "entities": {
-        "hashtags": [], 
-        "symbols": [], 
-        "urls": [], 
-        "user_mentions": [
-            {
-                "id": 64121730, 
-                "id_str": "64121730", 
-                "indices": [
-                    0, 
-                    12
-                ], 
-                "name": "Gary the Bot \ud83e\udd16", 
-                "screen_name": "GaryTheBot_"
-            }
-        ]
-    }, 
-    "favorite_count": 476, 
-    "favorited": false, 
-    "geo": null, 
-    "id": 1172649404207005696, 
-    "id_str": "1172649404207005696", 
-    "in_reply_to_screen_name": "GaryTheBot_", 
-    "in_reply_to_status_id": 1172649163579768832, 
-    "in_reply_to_status_id_str": "1172649163579768832", 
-    "in_reply_to_user_id": 64121730, 
-    "in_reply_to_user_id_str": "64121730", 
-    "is_quote_status": false, 
-    "lang": "en", 
-    "place": null, 
-    "retweet_count": 27, 
-    "retweeted": false, 
-    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", 
-    "text": "@GaryTheBot_ Yes, that\u2019s exactly what I meant, Gary the Bot!", 
-    "truncated": false, 
-    "user": {
-        "contributors_enabled": false, 
-        "created_at": "Tue Jun 02 20:12:29 +0000 2009", 
-        "default_profile": false, 
-        "default_profile_image": false, 
-        "description": "", 
-        "entities": {
-            "description": {
-                "urls": []
-            }
-        }, 
-        "favourites_count": 3817, 
-        "follow_request_sent": false, 
-        "followers_count": 28228984, 
-        "following": false, 
-        "friends_count": 83, 
-        "geo_enabled": false, 
-        "has_extended_profile": true, 
-        "id": 44196397, 
-        "id_str": "44196397", 
-        "is_translation_enabled": false, 
-        "is_translator": false, 
-        "lang": null, 
-        "listed_count": 51348, 
-        "location": "", 
-        "name": "Elon Musk", 
-        "notifications": false, 
-        "profile_background_color": "C0DEED", 
-        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
-        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
-        "profile_background_tile": false, 
-        "profile_banner_url": "https://pbs.twimg.com/profile_banners/44196397/1556675519", 
-        "profile_image_url": "http://pbs.twimg.com/profile_images/1170974240796889089/aLuyoQiu_normal.jpg", 
-        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1170974240796889089/aLuyoQiu_normal.jpg", 
-        "profile_link_color": "0084B4", 
-        "profile_sidebar_border_color": "C0DEED", 
-        "profile_sidebar_fill_color": "DDEEF6", 
-        "profile_text_color": "333333", 
-        "profile_use_background_image": true, 
-        "protected": false, 
-        "screen_name": "elonmusk", 
-        "statuses_count": 8748, 
-        "time_zone": null, 
-        "translator_type": "none", 
-        "url": null, 
-        "utc_offset": null, 
-        "verified": true
-    }
-}{
-    "contributors": null, 
-    "coordinates": null, 
-    "created_at": "Fri Sep 13 23:11:59 +0000 2019", 
-    "entities": {
-        "hashtags": [], 
-        "symbols": [], 
-        "urls": [
-            {
-                "display_url": "Tesla.com/bigsolar", 
-                "expanded_url": "http://Tesla.com/bigsolar", 
-                "indices": [
-                    44, 
-                    67
-                ], 
-                "url": "https://t.co/sCkn87vMa9"
-            }
-        ], 
-        "user_mentions": []
-    }, 
-    "favorite_count": 14086, 
-    "favorited": false, 
-    "geo": null, 
-    "id": 1172649151282073601, 
-    "id_str": "1172649151282073601", 
-    "in_reply_to_screen_name": null, 
-    "in_reply_to_status_id": null, 
-    "in_reply_to_status_id_str": null, 
-    "in_reply_to_user_id": null, 
-    "in_reply_to_user_id_str": null, 
-    "is_quote_status": false, 
-    "lang": "en", 
-    "place": null, 
-    "possibly_sensitive": false, 
-    "retweet_count": 1031, 
-    "retweeted": false, 
-    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", 
-    "text": "Tesla commercial solar ordering now live at https://t.co/sCkn87vMa9!", 
-    "truncated": false, 
-    "user": {
-        "contributors_enabled": false, 
-        "created_at": "Tue Jun 02 20:12:29 +0000 2009", 
-        "default_profile": false, 
-        "default_profile_image": false, 
-        "description": "", 
-        "entities": {
-            "description": {
-                "urls": []
-            }
-        }, 
-        "favourites_count": 3817, 
-        "follow_request_sent": false, 
-        "followers_count": 28228984, 
-        "following": false, 
-        "friends_count": 83, 
-        "geo_enabled": false, 
-        "has_extended_profile": true, 
-        "id": 44196397, 
-        "id_str": "44196397", 
-        "is_translation_enabled": false, 
-        "is_translator": false, 
-        "lang": null, 
-        "listed_count": 51348, 
-        "location": "", 
-        "name": "Elon Musk", 
-        "notifications": false, 
-        "profile_background_color": "C0DEED", 
-        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
-        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
-        "profile_background_tile": false, 
-        "profile_banner_url": "https://pbs.twimg.com/profile_banners/44196397/1556675519", 
-        "profile_image_url": "http://pbs.twimg.com/profile_images/1170974240796889089/aLuyoQiu_normal.jpg", 
-        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1170974240796889089/aLuyoQiu_normal.jpg", 
-        "profile_link_color": "0084B4", 
-        "profile_sidebar_border_color": "C0DEED", 
-        "profile_sidebar_fill_color": "DDEEF6", 
-        "profile_text_color": "333333", 
-        "profile_use_background_image": true, 
-        "protected": false, 
-        "screen_name": "elonmusk", 
-        "statuses_count": 8748, 
+        "statuses_count": 8840, 
         "time_zone": null, 
         "translator_type": "none", 
         "url": null, 

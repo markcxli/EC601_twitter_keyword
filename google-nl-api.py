@@ -7,7 +7,7 @@ from google.cloud.language import types
 client = language.LanguageServiceClient()
 
 # The text to analyze
-text = u'your pussy is so good'
+text = u''
 document = types.Document(
     content=text,
     type=enums.Document.Type.PLAIN_TEXT)
