@@ -35,6 +35,12 @@ From the user input we acquire the keyword and the number of tweets to be analyz
 
 # Testing
 
+![testing_1](1.png)
+![testing_2](2.png)
+![testing_3](3.png)
+
+By analyzing those twitter feedback we can predict the attitude of public and further decide the investment strategy.
+
 # Lessons Learned
 
 ## What you liked doing?
