@@ -43,8 +43,8 @@ By analyzing those twitter feedback we can predict the attitude of public and fu
 # Lessons Learned
 
 ## What you liked doing?
-  *Working for a part of a big project 
-  *Teamwork with version control 
+  * Working for a part of a big project 
+  * Teamwork with version control 
 ## What you could have done better?
 We could have done more specific data analysis with the sentiment acquired, for example, getting relevant stock names accociated with a keyword, and show their stock tendencies based on the sentiment score.
 ## What you will avoid in the future?
