@@ -23,7 +23,9 @@ In this way, user will get the sentiment feedback of gathered tweets about this 
 
 System design is shown above.
 
-From the user input we acquire the keyword and the number of tweets to be analyzed as parameters, then using twitter API and the developer account we access to the tweets. After teh data(tweets) preprocessed (format), then the contents of those tweets about the keyword is transmitted into Google natural language API which will provide us with the sentiment score of these tweets. The score between [-1,-0.25] is determined as "Negative" attitude, the score between [-0.25,0.25] is determined as "Neutral" attitude and score between [0.25,1] is determined as "Positive" attitude. By the result of the score we get the percentage of each kind of attitude on this keywords and therefore we have the feedback of those tweets sentiment.
+Our program collects twitter account and the number of tweets as inputs, where twitter account is preferably a business related account, i.e. "elonmask","realDonaldTrump" etc.
+The program assuems that all credentials are already the project folder and the program source file. 
+After Twitter API fetches the tweets, Google natural language API which will provide us with the sentiment score of these tweets. The score between [-1,-0.25] is determined as "Negative" attitude, the score between [-0.25,0.25] is determined as "Neutral" attitude and score between [0.25,1] is determined as "Positive" attitude. By the result of the score we get the percentage of each kind of attitude on this keywords and therefore we have the feedback of those tweets sentiment.
 
 # How to build our system
 
