@@ -19,7 +19,7 @@ In this way, user will get the sentiment feedback of gathered tweets about this 
 
 # System Design
 
-![Architecture](arch.png)
+![Architecture](system-diagram.png)
 
 System design is shown above.
 
